@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+  <textarea name="input1" id="inputBox1" rows="30" style="width:100%" placeholder="日历文件条目" value=""> </textarea>
+  <button id="execButton" style="width:100%">下载为日历文件</button>
+</body>
+<script>
+  const inputBox1 = document.getElementById("inputBox1");
+  const execButton = document.getElementById("execButton");
+  inputBox1.value = "";
+
+  function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+    document.body.removeChild(element);
+  }
+
+  execButton.onclick = function () {
+    const inputStr = inputBox1.value;
+    let finalOutput = `BEGIN:VCALENDAR
+PRODID:-//EOE Recorded Group//EOE Live Schedule//CN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EOE 直播日程表
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALDESC:EOE 直播日程表，由 @哎呀米诺录播组 制作
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+` + inputStr + `
+END:VCALENDAR`;
+    download("eoe.ics", finalOutput)
+  }
+</script>
+
+</html>
