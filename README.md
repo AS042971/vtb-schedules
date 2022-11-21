@@ -4,4 +4,5 @@
 
 ## 可订阅日程表
 
-EOE直播日程表 `webcal://as042971.github.io/vtb-schedules/eoe.ics`
+EOE 直播日程表 `webcal://as042971.github.io/vtb-schedules/eoe.ics`
+量子少年 直播日程表 `webcal://as042971.github.io/vtb-schedules/lzsn.ics`
