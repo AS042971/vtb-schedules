@@ -246,9 +246,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221122T200000
 UID:20221122T200000_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221122T200000
 DURATION:PT180M
-SUMMARY:莞儿电台
+SUMMARY:莞儿电台【主 包 叛 逆 期 到 了】
 URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@莞儿睡不醒：各位小莞熊下午好！有一则通知˃ʍ˂ 近期唐小姐摆了，于是明天电台由睡不醒代播。望小莞熊周知嗷！\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
