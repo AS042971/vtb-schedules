@@ -7,11 +7,15 @@
 
 <body>
   <textarea name="input1" id="inputBox1" rows="30" style="width:100%" placeholder="日历文件条目" value=""> </textarea>
-  <button id="execButton" style="width:100%">下载为日历文件</button>
+  <input type="text" id="name" placeholder="组合名"></input>
+  <input type="text" id="author" placeholder="作者"></input>
+  <button id="execButton">下载为日历文件</button>
 </body>
 <script>
   const inputBox1 = document.getElementById("inputBox1");
   const execButton = document.getElementById("execButton");
+  const nameBox = document.getElementById("name");
+  const authorBox = document.getElementById("author");
   inputBox1.value = "";
 
   function download(filename, text) {
@@ -28,14 +32,16 @@
 
   execButton.onclick = function () {
     const inputStr = inputBox1.value;
+    const nameStr = nameBox.value;
+    const authorStr = authorBox.value;
     let finalOutput = `BEGIN:VCALENDAR
-PRODID:-//EOE Recorded Group//EOE Live Schedule//CN
+PRODID:-//` + authorStr + `//` + nameStr + ` 直播日程表//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:EOE 直播日程表
+X-WR-CALNAME:` + nameStr + ` 直播日程表
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:EOE 直播日程表，由 @哎呀米诺录播组 制作
+X-WR-CALDESC:` + nameStr + ` 直播日程表，由 @` + authorStr + ` 制作
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
@@ -48,7 +54,7 @@ END:STANDARD
 END:VTIMEZONE
 ` + inputStr + `
 END:VCALENDAR`;
-    download("eoe.ics", finalOutput)
+    download(nameStr.toLowerCase() + ".ics", finalOutput)
   }
 </script>
 
