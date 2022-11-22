@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
-PRODID:-//A-soul录播轴工作组//A-soul 直播日程表//CN
+PRODID:-//A-Soul录播轴工作组//A-Soul 直播日程表//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:A-soul 直播日程表
+X-WR-CALNAME:A-Soul 直播日程表
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:A-soul 直播日程表，由 @A-soul录播轴工作组 制作
+X-WR-CALDESC:A-Soul 直播日程表，由 @A-Soul录播轴工作组 制作
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
@@ -2317,9 +2317,9 @@ UID:OYitVt6sApT_asoul@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T200000
 DURATION:PT50M
 SUMMARY:贝拉【和贝极星的周日计划】
-URL:
-DESCRIPTION:\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@ 直播间
+URL:bilibili://live/22632424
+DESCRIPTION:https://live.bilibili.com/22632424\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@贝拉Kira 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -2332,9 +2332,9 @@ UID:QzlGKhnqdT8_asoul@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T211000
 DURATION:PT50M
 SUMMARY:嘉然【和嘉心糖一起吃】
-URL:
-DESCRIPTION:\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@ 直播间
+URL:bilibili://live/22637261
+DESCRIPTION:https://live.bilibili.com/22637261\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@嘉然今天吃什么 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -2362,9 +2362,9 @@ UID:mO26MYiRQQc_asoul@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T211000
 DURATION:PT50M
 SUMMARY:乃琳【这件事我坚持很久辣】
-URL:
-DESCRIPTION:\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@ 直播间
+URL:bilibili://live/22625027
+DESCRIPTION:https://live.bilibili.com/22625027\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@乃琳Queen 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -2377,9 +2377,9 @@ UID:CRFsfsGKKrS_asoul@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221125T200000
 DURATION:PT120M
 SUMMARY:A-SOUL夜谈【人间真实也是人间矛盾体】
-URL:
-DESCRIPTION:\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@ 直播间
+URL:bilibili://live/22637261
+DESCRIPTION:https://live.bilibili.com/22637261\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@嘉然今天吃什么 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1
@@ -2392,9 +2392,9 @@ UID:nItkVbmXJKc_asoul@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221126T200000
 DURATION:PT120M
 SUMMARY:A-SOUL小剧场【枝江好声音】
-URL:
-DESCRIPTION:\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@ 直播间
+URL:bilibili://live/22625027
+DESCRIPTION:https://live.bilibili.com/22625027\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@乃琳Queen 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:1

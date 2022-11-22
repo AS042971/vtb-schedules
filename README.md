@@ -7,3 +7,5 @@
 - A-Soul 直播日程表 `webcal://as042971.github.io/vtb-schedules/a-soul.ics`
 - EOE 直播日程表 `webcal://as042971.github.io/vtb-schedules/eoe.ics`
 - 量子少年 直播日程表 `webcal://as042971.github.io/vtb-schedules/lzsn.ics`
+- 四禧丸子 直播日程表 `webcal://schedules.bili.studio/sxwz.ics`
+- 星律动 直播日程表 `制作中`
