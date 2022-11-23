@@ -261,9 +261,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221123T200000
 UID:yEd09snn3nZ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T200000
 DURATION:PT240M
-SUMMARY:柚恩电台
+SUMMARY:柚恩电台【弹弹琴，聊聊天】
 URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@柚恩不加糖：今天背景图大概动不了了\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
