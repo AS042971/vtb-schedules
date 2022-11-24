@@ -276,9 +276,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221124T200000
 UID:cYaybqE7PrH_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T200000
 DURATION:PT240M
-SUMMARY:米诺电台
+SUMMARY:米诺电台【今晚八点，一起聊聊】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：就是说...\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
