@@ -306,9 +306,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221126T200000
 UID:rece9XSzU5_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221126T200000
 DURATION:PT240M
-SUMMARY:虞莫电台
+SUMMARY:虞莫电台【 底特律变茄 】
 URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@虞莫MOMO： 年轻人的居家生活方式 \n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
