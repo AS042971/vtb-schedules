@@ -80,7 +80,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221116T193000
 UID:recJBNHZz6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221116T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:露早电台【来和我聊天吧】
 URL:bilibili://live/25512443
 DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
