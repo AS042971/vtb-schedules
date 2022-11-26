@@ -95,7 +95,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221119T184500
 UID:recU3jVEv4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221119T184500
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【你真的了解你的队友吗】
 URL:bilibili://live/25512465
 DESCRIPTION:@米诺高分少女：真不熟\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
