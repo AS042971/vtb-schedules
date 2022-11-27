@@ -321,9 +321,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221127T200000
 UID:recijIYlPC_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221127T200000
 DURATION:PT240M
-SUMMARY:EOE电台团播
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:EOE电台团播【和EOE一起上学吧】
+URL:bilibili://video/BV1Lv4y1d7Wu
+DESCRIPTION:@莞儿睡不醒： EOE高中开学啦！大家背起小书包一起上学吧～@[米诺高分少女_酷诺米][莞儿睡不醒_小莞熊][露早GOGO_GOGO队][柚恩不加糖_柚恩蜜][虞莫MOMO_美人虞] \n\nhttps://www.bilibili.com/video/BV1Lv4y1d7Wu\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY

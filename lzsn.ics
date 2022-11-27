@@ -22,8 +22,8 @@ UID:recdG9lwMX_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221121T190000
 DURATION:PT120M
 SUMMARY:楚枫2D
-URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/ BV1YR4y1o7Bj 
+DESCRIPTION:https://www.bilibili.com/video/ BV1YR4y1o7Bj \n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37,8 +37,8 @@ UID:recaNgTZqE_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221122T190000
 DURATION:PT120M
 SUMMARY:楚枫2D
-URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/ BV1Lg411i7tj 
+DESCRIPTION:https://www.bilibili.com/video/ BV1Lg411i7tj \n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -157,8 +157,8 @@ UID:rec0bPUOmh_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221126T190000
 DURATION:PT120M
 SUMMARY:祥太生日会
-URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/ BV1544y1D76R 
+DESCRIPTION:https://www.bilibili.com/video/ BV1544y1D76R \n点击上方链接打开录播
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -167,26 +167,11 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221127T190000
-UID:recqVbBvmC_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221127T190000
-DURATION:PT120M
-SUMMARY:泽一2D
-URL:bilibili://live/23905421
-DESCRIPTION:https://live.bilibili.com/23905421\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@量子少年-泽一 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221127T210000
+DTSTAMP;TZID=Asia/Shanghai:20221127T205000
 UID:rec2NEgV5K_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221127T210000
+DTSTART;TZID=Asia/Shanghai:20221127T205000
 DURATION:PT120M
-SUMMARY:祥太2D
+SUMMARY:慕宇2D【在干嘛？】
 URL:bilibili://live/23965761
 DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
