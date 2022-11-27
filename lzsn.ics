@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:-//量子少年录播组//量子少年 直播日程表//CN
+PRODID:-//LZSN Recorded Group//LZSN Live Schedule//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
@@ -18,10 +18,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221121T190000
-UID:cQJqWaBnLus_lzsn@bilibili.com
+UID:recdG9lwMX_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221121T190000
 DURATION:PT120M
-SUMMARY:楚枫2D【观影】
+SUMMARY:楚枫2D
 URL:bilibili://live/23905403
 DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
@@ -33,10 +33,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221122T190000
-UID:jT24MIrWM51_lzsn@bilibili.com
+UID:recaNgTZqE_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221122T190000
 DURATION:PT120M
-SUMMARY:楚枫2D【游戏】
+SUMMARY:楚枫2D
 URL:bilibili://live/23905403
 DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
@@ -48,10 +48,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221123T190000
-UID:GBMVjn18CAW_lzsn@bilibili.com
+UID:reckZuni90_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T190000
 DURATION:PT120M
-SUMMARY:祥太2D【杂谈】
+SUMMARY:祥太2D
 URL:bilibili://live/23965761
 DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
@@ -63,12 +63,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221123T190000
-UID:xL5LD7ygFwp_lzsn@bilibili.com
+UID:rec38h8URD_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T190000
 DURATION:PT120M
-SUMMARY:慕宇电台【做饭】做饭电台
+SUMMARY:慕宇电台
 URL:bilibili://live/23905374
-DESCRIPTION:@量子少年-慕宇：今天请个假慕雨露们～从昨天到现在一直杜子腾不知道什么情况也没见好...准备去找医生看一哈！电台放到明天吧！！爱你们！！\n\nhttps://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -78,10 +78,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221123T210000
-UID:91Wf9CCO3e2_lzsn@bilibili.com
+UID:rec8PliLv1_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T210000
 DURATION:PT120M
-SUMMARY:慕宇2D【杂谈】
+SUMMARY:慕宇2D
 URL:bilibili://live/23905374
 DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
@@ -93,10 +93,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221124T190000
-UID:aksBQoSyFAD_lzsn@bilibili.com
+UID:recaSMIEhw_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T190000
 DURATION:PT120M
-SUMMARY:泽一2D【游戏】
+SUMMARY:泽一2D
 URL:bilibili://live/23905421
 DESCRIPTION:https://live.bilibili.com/23905421\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-泽一 直播间
@@ -108,10 +108,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221124T210000
-UID:0CM46gl9gDm_lzsn@bilibili.com
+UID:recbqc2qJR_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T210000
 DURATION:PT120M
-SUMMARY:楚枫2D【杂谈】
+SUMMARY:楚枫2D
 URL:bilibili://live/23905403
 DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
@@ -123,10 +123,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221125T190000
-UID:rCBf04qrueQ_lzsn@bilibili.com
+UID:recdazQCjL_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221125T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【观影】
+SUMMARY:慕宇2D
 URL:bilibili://live/23905374
 DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
@@ -138,10 +138,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221125T210000
-UID:Qd7kxHhJC82_lzsn@bilibili.com
+UID:recJSIv3HC_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221125T210000
 DURATION:PT120M
-SUMMARY:楚枫2D【杂谈】
+SUMMARY:楚枫2D
 URL:bilibili://live/23905403
 DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221126T190000
-UID:e41hh64zg7L_lzsn@bilibili.com
+UID:rec0bPUOmh_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221126T190000
 DURATION:PT120M
 SUMMARY:祥太生日会
@@ -168,10 +168,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221127T190000
-UID:12vG1LtUzpq_lzsn@bilibili.com
+UID:recqVbBvmC_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221127T190000
 DURATION:PT120M
-SUMMARY:泽一2D【杂谈】
+SUMMARY:泽一2D
 URL:bilibili://live/23905421
 DESCRIPTION:https://live.bilibili.com/23905421\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-泽一 直播间
@@ -183,10 +183,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221127T210000
-UID:r4A6cjUq7ga_lzsn@bilibili.com
+UID:rec2NEgV5K_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221127T210000
 DURATION:PT120M
-SUMMARY:祥太2D【看二创】
+SUMMARY:祥太2D
 URL:bilibili://live/23965761
 DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
