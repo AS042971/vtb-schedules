@@ -82,8 +82,8 @@ UID:recJBNHZz6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221116T193000
 DURATION:PT150M
 SUMMARY:露早电台【来和我聊天吧】
-URL:bilibili://live/25512443
-DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Wv4y1m7Cv
+DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://www.bilibili.com/video/BV1Wv4y1m7Cv\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -127,8 +127,8 @@ UID:recdG9lwMX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221114T200000
 DURATION:PT120M
 SUMMARY:柚恩电台【柚恩飞行中】
-URL:bilibili://live/86724
-DESCRIPTION:@柚恩不加糖：好喜欢柚恩蜜呀(*¯︶¯*)\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ig411q7cd
+DESCRIPTION:@柚恩不加糖：好喜欢柚恩蜜呀(*¯︶¯*)\n\nhttps://www.bilibili.com/video/BV1ig411q7cd\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -157,8 +157,8 @@ UID:reckeuBOVA_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221117T190000
 DURATION:PT90M
 SUMMARY:米诺直播【慢 下 来】
-URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：我已经不再是以前那个米诺了，这次回国，我要拿回原本属于我的一切\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1MG411c7LW
+DESCRIPTION:@米诺高分少女：我已经不再是以前那个米诺了，这次回国，我要拿回原本属于我的一切\n\nhttps://www.bilibili.com/video/BV1MG411c7LW\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
