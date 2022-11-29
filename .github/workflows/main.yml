@@ -10,4 +10,4 @@ jobs:
         with:
           format: space-delimited
       - run: >
-              curl -X POST -H 'Content-Type: application/json' -d '{"msg_type":"text","content": {"text":"Github已更新\\n更新内容：${{ steps.changed_files.outputs.added_modified }}"}}' ${{ secrets.FEISHU_PUSH_URL }}
+              curl -X POST -H 'Content-Type: application/json' -d '{"msg_type":"text","content": {"text":"**Github已更新**\n更新内容：${{ steps.changed_files.outputs.added_modified }}"}}' ${{ secrets.FEISHU_PUSH_URL }}
