@@ -1,0 +1,10 @@
+name: Feishu Notify
+on: [push]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - run: >
+        curl -X POST -H 'Content-Type: application/json' \
+        -d '{"msg_type":"text","content":{"text":"Github 已更新"}}' \
+        '${FEISHU_PUSH_URL}'
