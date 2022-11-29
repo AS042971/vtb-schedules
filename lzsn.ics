@@ -111,9 +111,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221124T210000
 UID:recbqc2qJR_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T210000
 DURATION:PT120M
-SUMMARY:楚枫2D
+SUMMARY:楚枫2D【一首歌一个故事】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：歌曲总是我们抒发感情传达心意的一种媒介，也许喜欢一段音乐的背后还有一段动人的往事，如果有的话听枫者不知可否分享在评论区或者私信，我们一起听听这些迷人的旋律。\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -186,9 +186,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221128T190000
 UID:rec1VyvaVK_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221128T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【观影】
-URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:慕宇2D【看看远处的夜光杯】
+URL:bilibili://video/ BV1RP411T7zc 
+DESCRIPTION:@量子少年-慕宇：今天还是发炎，晚上少说点话，来看看夜光杯研究一下强队demo吧😋\n\nhttps://www.bilibili.com/video/ BV1RP411T7zc \n点击上方链接打开录播
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
