@@ -381,9 +381,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221129T203000
 UID:recrMTufo4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T203000
 DURATION:PT90M
-SUMMARY:莞儿直播
+SUMMARY:莞儿直播【入侵莞儿的电脑】
 URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@莞儿睡不醒：莞儿的电脑有什么呢？[米诺高分少女_疑问][米诺高分少女_疑问][莞儿睡不醒_开心]\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -486,9 +486,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221203T190000
 UID:reckij8C1V_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221203T190000
 DURATION:PT120M
-SUMMARY:莞儿电台【入侵莞儿的电脑】
+SUMMARY:莞儿电台
 URL:bilibili://live/25512476
-DESCRIPTION:@莞儿睡不醒：莞儿的电脑有什么呢？[米诺高分少女_疑问][米诺高分少女_疑问][莞儿睡不醒_开心]\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
