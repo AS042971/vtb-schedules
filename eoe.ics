@@ -382,8 +382,8 @@ UID:recrMTufo4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T203000
 DURATION:PT90M
 SUMMARY:莞儿直播【入侵莞儿的电脑】
-URL:bilibili://live/25512476
-DESCRIPTION:@莞儿睡不醒：莞儿的电脑有什么呢？[米诺高分少女_疑问][米诺高分少女_疑问][莞儿睡不醒_开心]\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1fe411P7ki
+DESCRIPTION:@莞儿睡不醒：莞儿的电脑有什么呢？[米诺高分少女_疑问][米诺高分少女_疑问][莞儿睡不醒_开心]\n\nhttps://www.bilibili.com/video/BV1fe411P7ki\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
