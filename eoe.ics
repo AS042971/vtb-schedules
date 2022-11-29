@@ -367,8 +367,8 @@ UID:recWceLMPt_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T190000
 DURATION:PT90M
 SUMMARY:柚恩直播【 和柚恩共度的一天 】
-URL:bilibili://live/86724
-DESCRIPTION:@柚恩不加糖： 会动的柚柚(*¯︶¯*) \n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV13G4y1G7iv
+DESCRIPTION:@柚恩不加糖： 会动的柚柚(*¯︶¯*) \n\nhttps://www.bilibili.com/video/BV13G4y1G7iv\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
