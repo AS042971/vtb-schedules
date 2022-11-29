@@ -5,6 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: >
-              curl -X POST -H 'Content-Type: application/json' \
-              -d '{"msg_type":"text","content":{"text":"Github"}}' \
-              '${FEISHU_PUSH_URL}'
+              curl -X POST -H 'Content-Type: application/json' -d '{"msg_type":"text","content":{"text":"Github"}}' "${FEISHU_PUSH_URL}"
