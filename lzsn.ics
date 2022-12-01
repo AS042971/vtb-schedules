@@ -202,8 +202,8 @@ UID:recq6drMac_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T190000
 DURATION:PT120M
 SUMMARY:楚枫2D【游玩黑相集【心中魔】】
-URL:bilibili://live/23905403
-DESCRIPTION:@量子少年-楚枫：趁着秋季折扣买了好几个新游戏，基本都是剧情类，像什么暴雨、超凡双生和底特律，还有就是这款新游戏心中魔，这两天就来玩一下这个游戏吧。\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1xR4y1y7tB
+DESCRIPTION:@量子少年-楚枫：趁着秋季折扣买了好几个新游戏，基本都是剧情类，像什么暴雨、超凡双生和底特律，还有就是这款新游戏心中魔，这两天就来玩一下这个游戏吧。\n\nhttps://www.bilibili.com/video/BV1xR4y1y7tB\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -217,8 +217,8 @@ UID:recrWmChUK_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T210000
 DURATION:PT120M
 SUMMARY:祥太2D【最下饭的一集《街头美食》】
-URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Ze411P7c1
+DESCRIPTION:https://www.bilibili.com/video/BV1Ze411P7c1\n点击上方链接打开录播
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
