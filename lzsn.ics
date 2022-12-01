@@ -216,37 +216,7 @@ DTSTAMP;TZID=Asia/Shanghai:20221129T210000
 UID:recrWmChUK_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221129T210000
 DURATION:PT120M
-SUMMARY:祥太2D【观影】
-URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@量子少年-祥太 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221130T190000
-UID:recyiwn7CM_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221130T190000
-DURATION:PT120M
-SUMMARY:楚枫2D【游戏】
-URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@量子少年-楚枫 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221201T190000
-UID:reccvlEN8E_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221201T190000
-DURATION:PT120M
-SUMMARY:祥太2D【杂谈】
+SUMMARY:祥太2D【最下饭的一集《街头美食》】
 URL:bilibili://live/23965761
 DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
