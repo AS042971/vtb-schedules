@@ -228,27 +228,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221202T190000
-UID:recT4jzoPf_lzsn@bilibili.com
+UID:rec2STCZAv_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221202T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【游戏】
-URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@量子少年-慕宇 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221202T210000
-UID:rec2STCZAv_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221202T210000
-DURATION:PT120M
-SUMMARY:楚枫2D【杂谈】
+SUMMARY:楚枫2D【我来啦~边看夜光杯边聊天吧~】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：今晚直播时间改到19点了，听枫者等会一起看夜光杯聊聊天吧，听听歌感受音乐的魅力\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
