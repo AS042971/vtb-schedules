@@ -411,9 +411,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221202T203000
 UID:recjoeetTk_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221202T203000
 DURATION:PT90M
-SUMMARY:虞莫直播【露早和她的朋友】
+SUMMARY:虞莫直播【苏虞传媒招聘啦！】
 URL:bilibili://live/25512485
-DESCRIPTION:@虞莫MOMO：(՞•Ꙫ•՞)\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@虞莫MOMO：苏总亲自面试时间\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
