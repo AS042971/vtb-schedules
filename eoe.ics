@@ -397,8 +397,8 @@ UID:rec8gRdwm6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221202T190000
 DURATION:PT90M
 SUMMARY:米诺直播【来碗海龟汤】
-URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：一 起 来 推 理\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1v14y1E7Z1
+DESCRIPTION:@米诺高分少女：一 起 来 推 理\n\nhttps://www.bilibili.com/video/BV1v14y1E7Z1\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -487,9 +487,9 @@ UID:rechHCe4Dj_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221203T210000
 DURATION:PT120M
 SUMMARY:露早电台【 GOGO队的好物推荐 】
-URL:bilibili://live/25512443
+URL:bilibili://video/BV1QW4y1u7Cr
 DESCRIPTION:@露早GOGO：想拥有一些GOGO队的同款                             有什么好物推荐可以私信分享给我哦，我看看你们都喜欢什么，下次直播选一下可以考虑入手的
-还有今晚21：00我的电台直播一定要来哦\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+还有今晚21：00我的电台直播一定要来哦\n\nhttps://www.bilibili.com/video/BV1QW4y1u7Cr\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
