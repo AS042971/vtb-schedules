@@ -261,9 +261,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221204T190000
 UID:recceuAcG2_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221204T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【杂谈】
+SUMMARY:慕宇2D【test】
 URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-慕宇：测\n\nhttps://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -271,4 +271,5 @@ DESCRIPTION:直播即将开始
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
+#N/A
 END:VCALENDAR
