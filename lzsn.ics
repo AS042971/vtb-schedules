@@ -322,8 +322,8 @@ UID:recVfsAGus_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221207T190000
 DURATION:PT120M
 SUMMARY:慕宇3D【大雪】
-URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1z8411G7nQ
+DESCRIPTION:https://www.bilibili.com/video/BV1z8411G7nQ\n点击上方链接打开录播
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
