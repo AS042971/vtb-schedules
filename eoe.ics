@@ -504,9 +504,9 @@ UID:recAfjrstS_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221205T200000
 DURATION:PT120M
 SUMMARY:露早直播【GOGO队的好物推荐】
-URL:bilibili://live/25512443
+URL:bilibili://video/BV1nd4y1s7jB
 DESCRIPTION:@露早GOGO：想拥有一些GOGO队的同款[露早GOGO_GOGO队]有什么好物推荐可以私信分享给我哦，我看看你们都喜欢什么，下次直播选一下可以考虑入手的
-还有今晚21：00我的电台直播一定要来哦[露早GOGO_mua] \n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+还有今晚21：00我的电台直播一定要来哦[露早GOGO_mua] \n\nhttps://www.bilibili.com/video/BV1nd4y1s7jB\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -520,8 +520,8 @@ UID:recaTY9sLp_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221207T214500
 DURATION:PT120M
 SUMMARY:米诺电台【大喜之日】
-URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：生日收到了好多祝福和礼物，可是…果然还是最想收到你的，你问为什么？因为…因为…可恶你居然还要问我原因！因为你是个大笨蛋啦！！！ \n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1LV4y1P7rf
+DESCRIPTION:@米诺高分少女：生日收到了好多祝福和礼物，可是…果然还是最想收到你的，你问为什么？因为…因为…可恶你居然还要问我原因！因为你是个大笨蛋啦！！！ \n\nhttps://www.bilibili.com/video/BV1LV4y1P7rf\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
