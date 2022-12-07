@@ -351,7 +351,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230724T200000
 UID:recZyCnMIz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230724T200000
-DURATION:PT360M
+DURATION:PT240M
 SUMMARY:周年庆
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
