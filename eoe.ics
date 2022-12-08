@@ -535,8 +535,8 @@ UID:rec9DngHoA_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221208T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【运营姐姐噶了】
-URL:bilibili://live/25512485
-DESCRIPTION:@虞莫MOMO：出 大 事 了[虞莫MOMO_别拍别拍][虞莫MOMO_别拍别拍]\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1MG411M767
+DESCRIPTION:@虞莫MOMO：出 大 事 了[虞莫MOMO_别拍别拍][虞莫MOMO_别拍别拍]\n\nhttps://www.bilibili.com/video/BV1MG411M767\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
