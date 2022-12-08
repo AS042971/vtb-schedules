@@ -351,9 +351,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221208T203000
 UID:rec3IACkCi_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221208T203000
 DURATION:PT120M
-SUMMARY:楚枫2D【联动with塔克、桃星、诺莺】
+SUMMARY:楚枫2D【大家一起玩躲猫猫】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：最爱和同伴玩躲猫猫了，期待和塔克闹闹桃星在女巫来了一起探索各种难以找到的地方躲起来，躲不过我就。。。。飞走~\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
