@@ -381,9 +381,11 @@ DTSTAMP;TZID=Asia/Shanghai:20221209T190000
 UID:recl0sggwv_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221209T190000
 DURATION:PT120M
-SUMMARY:祥太2D【游戏】
+SUMMARY:祥太2D【魂雀】
 URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-祥太：歪！？在？？
+等下玩会儿雀魂，来不～
+手机电没了hhh 我充一会儿，可能7点晚一两分钟开～\n\nhttps://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -396,9 +398,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221209T210000
 UID:recRbLXKty_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221209T210000
 DURATION:PT120M
-SUMMARY:楚枫2D【杂谈】
+SUMMARY:楚枫2D【我画的是？】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：终于忙完回来了，等会九点画画舰长头像，画的不好就随便看看吧\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
