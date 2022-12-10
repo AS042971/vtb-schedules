@@ -413,7 +413,7 @@ DTSTAMP;TZID=Asia/Shanghai:20221210T190000
 UID:recLN0UvXF_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221210T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【观影】
+SUMMARY:慕宇2D【全民目击】
 URL:bilibili://live/23905374
 DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
@@ -428,9 +428,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221210T200000
 UID:recse7Vx7N_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221210T200000
 DURATION:PT120M
-SUMMARY:祥太2D【唱歌】
+SUMMARY:祥太2D【不知道，抱歉，对不起】
 URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-祥太：今天干嘛？\n\nhttps://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
