@@ -427,9 +427,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221210T200000
 UID:recjnkWDbe_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221210T200000
 DURATION:PT120M
-SUMMARY:莞儿电台
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:莞儿电台【和大家聊聊天儿～】
+URL:bilibili://video/BV1UW4y1g72S
+DESCRIPTION:@莞儿睡不醒：俺来咯！临时决定晚上突击一会儿！！\n\nhttps://www.bilibili.com/video/BV1UW4y1g72S\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
