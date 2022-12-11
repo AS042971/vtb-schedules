@@ -551,7 +551,7 @@ DTSTART;TZID=Asia/Shanghai:20221211T200000
 DURATION:PT90M
 SUMMARY:莞儿直播【今日有莞】
 URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@莞儿睡不醒：好心情有助恢复健康～！！今日有莞来陪大家聊天嗷＾3＾\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
