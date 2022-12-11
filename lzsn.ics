@@ -491,8 +491,8 @@ DTSTART;TZID=Asia/Shanghai:20221210T210000
 DURATION:PT120M
 SUMMARY:泽一2D【突一小会儿！】
 URL:bilibili://video/BV1Cg411J7UT
-DESCRIPTION:@量子少年-：九点左右来小突一下！嘿嘿！\n\nhttps://www.bilibili.com/video/BV1Cg411J7UT\n点击上方链接打开录播
-LOCATION:@量子少年- 直播间
+DESCRIPTION:@量子少年-泽一：九点左右来小突一下！嘿嘿！\n\nhttps://www.bilibili.com/video/BV1Cg411J7UT\n点击上方链接打开录播
+LOCATION:@量子少年-泽一 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
