@@ -414,9 +414,9 @@ UID:recLN0UvXF_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221210T190000
 DURATION:PT120M
 SUMMARY:慕宇2D【全民目击】
-URL:bilibili://video/ BV17G411M7ik 
+URL:bilibili://video/BV17G411M7ik
 DESCRIPTION:@量子少年-慕宇：今天在外面跑了一整天！！！刚到家，折腾死...不过晚上吃到了一道蓝莓酱的鹅肝，妈呀老好吃了，本来鹅肝是有点腻的，但是加了蓝莓酱意外的清甜，没反应过来就下肚了！不了解西方烹饪の我感到好新奇...
-明天来看电影吧～明晚见喔\n\nhttps://www.bilibili.com/video/ BV17G411M7ik \n点击上方链接打开录播
+明天来看电影吧～明晚见喔\n\nhttps://www.bilibili.com/video/BV17G411M7ik\n点击上方链接打开录播
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -478,9 +478,12 @@ DTSTAMP;TZID=Asia/Shanghai:20221211T200000
 UID:recpegiGNr_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221211T200000
 DURATION:PT120M
-SUMMARY:泽一2D【泽伊出道！】
+SUMMARY:泽一2D【趁着哥哥不在...小播一下！】
 URL:bilibili://live/23905421
-DESCRIPTION:https://live.bilibili.com/23905421\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-泽一：天哪！！发现哥哥的惊天大秘密！！他怎么是虚拟偶像啊？？
+这是什么？obs？妹妹也来玩一下！
+这是什么？直播间？妹妹也来播一下！
+这是什么？小甜一？妹妹也来啾一下！\n\nhttps://live.bilibili.com/23905421\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-泽一 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
