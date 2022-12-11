@@ -545,14 +545,14 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221211T193000
+DTSTAMP;TZID=Asia/Shanghai:20221211T200000
 UID:recEps1Ywf_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221211T193000
-DURATION:PT120M
-SUMMARY:团播
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@柚恩不加糖 直播间
+DTSTART;TZID=Asia/Shanghai:20221211T200000
+DURATION:PT90M
+SUMMARY:莞儿直播【今日有莞】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
