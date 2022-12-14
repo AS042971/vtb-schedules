@@ -509,8 +509,8 @@ UID:recNC4Ckuz_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221214T190000
 DURATION:PT120M
 SUMMARY:楚枫2D【Hi~ o(*￣▽￣*)ブ】
-URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1uK411z7et
+DESCRIPTION:https://www.bilibili.com/video/BV1uK411z7et\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
