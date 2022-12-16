@@ -559,4 +559,19 @@ DESCRIPTION:直播即将开始
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221216T200000
+UID:rec1Wd5SQs_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221216T200000
+DURATION:PT120M
+SUMMARY:莞儿电台【莞儿来啦！！】
+URL:bilibili://live/25512476
+DESCRIPTION:@莞儿睡不醒：小莞熊，晚上见呀～！好想你们，有好多好多话想说喔(* ^心^)◞♡\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
