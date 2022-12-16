@@ -538,9 +538,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221216T190000
 UID:recW7FDzI0_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221216T190000
 DURATION:PT120M
-SUMMARY:慕宇2D【观影】
-URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:慕宇2D【看别人谈恋爱】
+URL:bilibili://video/BV1V14y1N7gU
+DESCRIPTION:https://www.bilibili.com/video/BV1V14y1N7gU\n点击上方链接打开录播
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -553,9 +553,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221216T210000
 UID:recIrE5ZCy_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221216T210000
 DURATION:PT120M
-SUMMARY:楚枫2D【杂谈】
-URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:楚枫2D【陪我一起玩玩偶像经理人】
+URL:bilibili://video/BV1x8411p7iB
+DESCRIPTION:https://www.bilibili.com/video/BV1x8411p7iB\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -570,7 +570,8 @@ DTSTART;TZID=Asia/Shanghai:20221217T160000
 DURATION:PT120M
 SUMMARY:慕宇2D【新晋原友时间】
 URL:bilibili://live/23905374
-DESCRIPTION:https://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-慕宇：发现换新枕头这种改变生活的小事情真的太能提升幸福感咯！今天早就戒斋（bushi）沐浴准备直播完直接睡觉！！芜！我直接睡！！！！太爽啦！！！
+换乘恋爱2确实好看，你们是有品位的。最近多播播，看看能不能在去看医生之前把这个和大家一起看完吧~我们明天见！\n\nhttps://live.bilibili.com/23905374\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
