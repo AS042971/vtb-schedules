@@ -645,8 +645,8 @@ UID:recQUsBSFQ_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221220T200000
 DURATION:PT120M
 SUMMARY:楚枫2D【一起看看守护解放西】
-URL:bilibili://live/23905403
-DESCRIPTION:@量子少年-楚枫：看\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Kv4y1X78g
+DESCRIPTION:@量子少年-楚枫：看\n\nhttps://www.bilibili.com/video/BV1Kv4y1X78g\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
