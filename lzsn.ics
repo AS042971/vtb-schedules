@@ -705,8 +705,8 @@ UID:recK4WCn4X_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221221T190000
 DURATION:PT120M
 SUMMARY:祥太2D【阴了立马播】
-URL:bilibili://live/23965761
-DESCRIPTION:@量子少年-祥太：你呢？\n\nhttps://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Ge411c7ch
+DESCRIPTION:@量子少年-祥太：你呢？\n\nhttps://www.bilibili.com/video/BV1Ge411c7ch\n点击上方链接打开录播
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
