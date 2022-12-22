@@ -1251,6 +1251,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221005T203000
+UID:recEWMrHCf_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221005T203000
+DURATION:PT120M
+SUMMARY:柚恩直播【柚恩加糖】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221004T190000
 UID:rec7CKZA6U_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221004T190000
@@ -1341,11 +1356,11 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20220928T203000
+DTSTAMP;TZID=Asia/Shanghai:20220928T190000
 UID:recEfiP0PV_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20220928T203000
+DTSTART;TZID=Asia/Shanghai:20220928T190000
 DURATION:PT120M
-SUMMARY:柚恩直播【柚恩加糖】
+SUMMARY:柚恩直播【江山行】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
@@ -1419,7 +1434,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220923T190000
 UID:reclaSVy1N_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220923T190000
-DURATION:PT10M
+DURATION:PT150M
 SUMMARY:柚恩直播【镜中人】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1434,7 +1449,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220922T203000
 UID:recxo3mXLY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220922T203000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:柚恩&虞莫【两个女人】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1449,7 +1464,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220922T190000
 UID:recZIUHG7V_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220922T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:莞儿直播【莞儿的送礼心得🤟】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1464,7 +1479,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220921T203000
 UID:reclBHcitz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220921T203000
-DURATION:PT10M
+DURATION:PT210M
 SUMMARY:米诺电台直播【画画还债回】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1791,9 +1806,9 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20220901T140200
+DTSTAMP;TZID=Asia/Shanghai:20220901T203000
 UID:recWaI4tGn_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20220901T140200
+DTSTART;TZID=Asia/Shanghai:20220901T203000
 DURATION:PT10M
 SUMMARY:莞儿&柚恩&露早【莞柚引力/纸嫁衣4？美少女不害怕！】
 URL:bilibili://live/86724
