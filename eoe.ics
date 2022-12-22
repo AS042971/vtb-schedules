@@ -653,9 +653,11 @@ DTSTAMP;TZID=Asia/Shanghai:20221230T193000
 UID:recNHIjZPI_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221230T193000
 DURATION:PT180M
-SUMMARY:米诺生日会
+SUMMARY:米诺生日演唱会【米诺的道理】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：即便经历再多艰难险阻，我们，终将重新出发！
+12月30日19:30 【米诺生日演唱会】 在@米诺高分少女 直播间里，让我们，畅意开怀！
+小漏一下，这次的天选抽奖环节将为大家带来更多惊喜和福利哦！\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
