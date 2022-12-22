@@ -1494,7 +1494,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220921T190000
 UID:recd3Af1KX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220921T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:虞莫直播【国庆百京旅游攻略】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1509,7 +1509,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220919T190000
 UID:recSRPw88x_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220919T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:柚恩电台直播【聊聊】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1524,7 +1524,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220917T190000
 UID:rec9de459K_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220917T190000
-DURATION:PT10M
+DURATION:PT180M
 SUMMARY:团播【EOE录音棚欢乐多】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220916T203000
 UID:recx1ucp9P_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220916T203000
-DURATION:PT10M
+DURATION:PT150M
 SUMMARY:虞莫直播【虞莫社交秘籍宝典】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1554,7 +1554,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220916T190000
 UID:recIlKLGEy_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220916T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:米诺电台直播【周五之夜，快乐时光开始了】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1569,7 +1569,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220915T203000
 UID:recgSG8APi_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220915T203000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:莞儿直播【识~食物者为俊杰】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1584,8 +1584,8 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220915T190000
 UID:recKPMMfIz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220915T190000
-DURATION:PT10M
-SUMMARY:露早直播【团播游戏回】
+DURATION:PT90M
+SUMMARY:露早直播【早早的衣柜】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -1599,7 +1599,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220914T203000
 UID:recOjsLOL4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220914T203000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:团播游戏回【【恐怖游戏】女 鬼 桥】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1614,7 +1614,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220914T190000
 UID:recoajCPcW_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220914T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:柚恩直播【柚柚の颜色】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1659,7 +1659,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220910T193000
 UID:recZ8LFMd2_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220910T193000
-DURATION:PT10M
+DURATION:PT180M
 SUMMARY:团播【2022·EOE·中秋晚会】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1674,7 +1674,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220909T203000
 UID:reclEWq52C_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220909T203000
-DURATION:PT10M
+DURATION:PT150M
 SUMMARY:莞儿直播【 新衣发布会】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1689,7 +1689,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220909T190000
 UID:rectWkrZ4U_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220909T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:露早直播【汪汪周记】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1704,7 +1704,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220908T203000
 UID:recoP5c7vY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220908T203000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:柚恩直播【不要BE！】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1764,7 +1764,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220903T190000
 UID:receYbaS1K_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220903T190000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:团播【荒岛求生】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1794,7 +1794,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220902T190000
 UID:rec8GIl76A_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220902T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:露早直播【早言早语】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1809,7 +1809,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220901T203000
 UID:recWaI4tGn_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220901T203000
-DURATION:PT10M
+DURATION:PT210M
 SUMMARY:莞儿&柚恩&露早【莞柚引力/纸嫁衣4？美少女不害怕！】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1824,7 +1824,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220831T190000
 UID:recpESIspf_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220831T190000
-DURATION:PT10M
+DURATION:PT150M
 SUMMARY:莞儿直播【♡爱言叶♡】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1854,7 +1854,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220827T190000
 UID:recSs60GqB_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220827T190000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:团播【女寝生活大公开！】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1869,7 +1869,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220826T203000
 UID:recQyQKRDV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220826T203000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:莞儿直播【不→得↑不↗尬↘↗～】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1884,7 +1884,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220826T190000
 UID:recdzRHAzY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220826T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:虞莫直播【碟 中 谍 E】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1899,7 +1899,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220825T203000
 UID:recY9IqnPF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220825T203000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:柚恩直播【进来学做计划(*¯^¯*)】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1914,7 +1914,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220825T190000
 UID:reclR1knm0_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220825T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:米诺直播【聊个5块钱的】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1929,7 +1929,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220824T203000
 UID:recLTW4XO8_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220824T203000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:团播游戏回【汪汪殿下坐镇主场】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1944,7 +1944,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220824T190000
 UID:rec3I2xu3q_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220824T190000
-DURATION:PT10M
+DURATION:PT90M
 SUMMARY:露早直播【汪汪殿下坐镇主场】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1960,7 +1960,7 @@ DTSTAMP;TZID=Asia/Shanghai:20220820T190000
 UID:recupPMCbX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220820T190000
 DURATION:PT10M
-SUMMARY:团播直播【女王的新衣】
+SUMMARY:团播【女王的新衣】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
