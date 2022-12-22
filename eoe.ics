@@ -2289,7 +2289,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220729T200000
 UID:recl4VF2oh_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220729T200000
-DURATION:PT10M
+DURATION:PT60M
 SUMMARY:露早首播【汪汪殿下登场!】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -2304,7 +2304,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220729T190000
 UID:recDXpZW92_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220729T190000
-DURATION:PT10M
+DURATION:PT60M
 SUMMARY:柚恩首播【急↑得↓长←痘↑痘↓】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
@@ -2319,7 +2319,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220728T200000
 UID:recSxXuYLU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220728T200000
-DURATION:PT10M
+DURATION:PT60M
 SUMMARY:虞莫首播【HEY BOY】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
@@ -2334,7 +2334,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220728T190000
 UID:reckFjS5tU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220728T190000
-DURATION:PT10M
+DURATION:PT60M
 SUMMARY:莞儿首播【新人VUP入圈考试！】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -2349,7 +2349,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220724T190000
 UID:recflmO2ab_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220724T190000
-DURATION:PT10M
+DURATION:PT180M
 SUMMARY:出道首播【一起闪耀吧！】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
