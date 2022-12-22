@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
-PRODID:-//LZSN Recorded Group//LZSN Live Schedule//CN
+PRODID:-//EOE Recorded Group//EOE Live Schedule//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:量子少年 直播日程表
+X-WR-CALNAME:EOE 直播日程表
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:量子少年 直播日程表，由 @量子少年录播组 制作
+X-WR-CALDESC:EOE 直播日程表，由 @哎呀米诺录播组 制作
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
@@ -455,6 +455,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221210T210000
+UID:rec172dTK5_lzsn@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221210T210000
+DURATION:PT120M
+SUMMARY:泽一2D【突一小会儿！】
+URL:bilibili://video/BV1Cg411J7UT
+DESCRIPTION:@量子少年-泽一：九点左右来小突一下！嘿嘿！\n\nhttps://www.bilibili.com/video/BV1Cg411J7UT\n点击上方链接打开录播
+LOCATION:@量子少年-泽一 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221211T190000
 UID:recyrHhi9l_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221211T190000
@@ -467,21 +482,6 @@ DESCRIPTION:@量子少年-慕宇：虽然《全民目击》是看的第三遍，
 （不知道什么时候才能练到35级去打牌）
 （这下看看谁不得不帮我说话了😯）\n\nhttps://www.bilibili.com/video/BV1EP4y1D7Br\n点击上方链接打开录播
 LOCATION:@量子少年-慕宇 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221210T210000
-UID:rec172dTK5_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221210T210000
-DURATION:PT120M
-SUMMARY:泽一2D【突一小会儿！】
-URL:bilibili://video/BV1Cg411J7UT
-DESCRIPTION:@量子少年-泽一：九点左右来小突一下！嘿嘿！\n\nhttps://www.bilibili.com/video/BV1Cg411J7UT\n点击上方链接打开录播
-LOCATION:@量子少年-泽一 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
@@ -512,6 +512,21 @@ SUMMARY:楚枫2D【Hi~ o(*￣▽￣*)ブ】
 URL:bilibili://video/BV1uK411z7et
 DESCRIPTION:https://www.bilibili.com/video/BV1uK411z7et\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221214T190000
+UID:recjJGXIuW_lzsn@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221214T190000
+DURATION:PT120M
+SUMMARY:慕宇2D【101】
+URL:bilibili://video/BV17g411E7qN
+DESCRIPTION:https://www.bilibili.com/video/BV17g411E7qN\n点击上方链接打开录播
+LOCATION:@量子少年-慕宇 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
@@ -595,21 +610,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221214T190000
-UID:recjJGXIuW_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221214T190000
-DURATION:PT120M
-SUMMARY:慕宇2D【101】
-URL:bilibili://video/BV17g411E7qN
-DESCRIPTION:https://www.bilibili.com/video/BV17g411E7qN\n点击上方链接打开录播
-LOCATION:@量子少年-慕宇 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221218T190000
 UID:recnCxtRjf_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221218T190000
@@ -648,6 +648,21 @@ SUMMARY:楚枫2D【一起看看守护解放西】
 URL:bilibili://video/BV1Kv4y1X78g
 DESCRIPTION:@量子少年-楚枫：看\n\nhttps://www.bilibili.com/video/BV1Kv4y1X78g\n点击上方链接打开录播
 LOCATION:@量子少年-楚枫 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221221T190000
+UID:recK4WCn4X_lzsn@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221221T190000
+DURATION:PT120M
+SUMMARY:祥太2D【阴了立马播】
+URL:bilibili://video/BV1Ge411c7ch
+DESCRIPTION:@量子少年-祥太：你呢？\n\nhttps://www.bilibili.com/video/BV1Ge411c7ch\n点击上方链接打开录播
+LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
@@ -696,21 +711,6 @@ SUMMARY:楚枫2D【杂谈】
 URL:bilibili://live/23905403
 DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221221T190000
-UID:recK4WCn4X_lzsn@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221221T190000
-DURATION:PT120M
-SUMMARY:祥太2D【阴了立马播】
-URL:bilibili://video/BV1Ge411c7ch
-DESCRIPTION:@量子少年-祥太：你呢？\n\nhttps://www.bilibili.com/video/BV1Ge411c7ch\n点击上方链接打开录播
-LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
