@@ -38,11 +38,7 @@ DTSTART;TZID=Asia/Shanghai:20230115T183000
 DURATION:PT240M
 SUMMARY:冰火歌会【冰火歌会2022年度盛典】
 URL:bilibili://live/1
-DESCRIPTION:@米诺高分少女:  快要过年啦！大家过年都会吃什么呢？ 
-@莞儿睡不醒:  新年就要到啦！新的一年也想要和小莞熊们在一起哦~
-@露早GOGO:  那就给大家拜个早年吧！  
-@虞莫MOMO:  要过年啦！美人虞们过年都要干嘛呢[虞莫MOMO_嗨起来][虞莫MOMO_嗨起来][虞莫MOMO_嗨起来] 
-@柚恩不加糖:  是和EOES们柚恩蜜宝贝们一起度过的第一个新年耶，希望新的一年我们都能顺顺利利开开心心的柚[柚恩不加糖_哇] \n\nhttps://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：快要过年啦！大家过年都会吃什么呢？\n@莞儿睡不醒：新年就要到啦！新的一年也想要和小莞熊们在一起哦~\n@露早GOGO：那就给大家拜个早年吧！\n@虞莫MOMO：要过年啦！美人虞们过年都要干嘛呢[虞莫MOMO_嗨起来][虞莫MOMO_嗨起来][虞莫MOMO_嗨起来]\n@柚恩不加糖：是和EOES们柚恩蜜宝贝们一起度过的第一个新年耶，希望新的一年我们都能顺顺利利开开心心的柚[柚恩不加糖_哇]\n\nhttps://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@哔哩哔哩直播 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -102,9 +98,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221224T190000
 UID:recM7IxQUL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221224T190000
 DURATION:PT90M
-SUMMARY:露早直播
+SUMMARY:露早直播【杂谈之神回归】
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO：不信的话点进来看看[露早GOGO_侃侃而谈]\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
