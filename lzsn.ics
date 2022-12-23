@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
-PRODID:-//EOE Recorded Group//EOE Live Schedule//CN
+PRODID:-//LZSN Recorded Group//LZSN Live Schedule//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:EOE 直播日程表
+X-WR-CALNAME:量子少年 直播日程表
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:EOE 直播日程表，由 @哎呀米诺录播组 制作
+X-WR-CALDESC:量子少年 直播日程表，由 @量子少年录播组 制作
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
