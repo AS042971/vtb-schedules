@@ -144,8 +144,8 @@ UID:recpPGJJf2_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221222T200000
 DURATION:PT120M
 SUMMARY:莞儿直播【歪歪歪，莞儿给你来电】
-URL:bilibili://live/25512476
-DESCRIPTION:@莞儿睡不醒：接电话啦~[莞儿睡不醒_mua]\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV17G411N7CM
+DESCRIPTION:@莞儿睡不醒：接电话啦~[莞儿睡不醒_mua]\n\nhttps://www.bilibili.com/video/BV17G411N7CM\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
