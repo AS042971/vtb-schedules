@@ -692,9 +692,10 @@ DTSTAMP;TZID=Asia/Shanghai:20221223T190000
 UID:recVgERlo7_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221223T190000
 DURATION:PT120M
-SUMMARY:楚枫2D【游戏】
+SUMMARY:楚枫2D【黑羊的诱惑】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：有福同享，有难同当，一起康康这是个什么好【lan】游戏。
+话说我大会员呢？\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
