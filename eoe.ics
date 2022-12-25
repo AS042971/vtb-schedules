@@ -64,6 +64,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221226T190000
+UID:reclzvktHy_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221226T190000
+DURATION:PT90M
+SUMMARY:莞儿直播【莞儿的台词摄影会～ 】
+URL:bilibili://live/25512476
+DESCRIPTION:@莞儿睡不醒：拍照苦手莞儿，想向大家征集拍照的POSE~当然这是新型摄影会，当然还要配上一句台词耶~小莞熊快来投稿吧！！୧( ⁼̴̶̤̀ω⁼̴̶̤́ )૭ 【例子: POSE:鸭子坐 台词:我是你们的女王大人~】\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221225T193000
 UID:recACEJb9c_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221225T193000
