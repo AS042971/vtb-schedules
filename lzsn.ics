@@ -769,9 +769,9 @@ DTSTAMP;TZID=Asia/Shanghai:20221227T190000
 UID:recxszfyxQ_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221227T190000
 DURATION:PT120M
-SUMMARY:祥太2D【观影】
+SUMMARY:祥太2D【「我买了一个农场」】
 URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-祥太：看看纪录片做梦，梦里啥都有。\n\nhttps://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -786,7 +786,7 @@ DTSTART;TZID=Asia/Shanghai:20221227T210000
 DURATION:PT120M
 SUMMARY:楚枫2D【晚安电台】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：出门办点事情，晚上回来聊聊\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
