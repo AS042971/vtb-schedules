@@ -1494,7 +1494,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220927T200000
 UID:recD3cR2Sq_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220927T200000
-DURATION:PT100M
+DURATION:PT90M
 SUMMARY:米诺电台直播【画歌回，整点小活儿】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1509,7 +1509,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220925T200000
 UID:recd694LD9_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220925T200000
-DURATION:PT165M
+DURATION:PT180M
 SUMMARY:米诺电台直播【运营不在，小播一会儿】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
@@ -1854,7 +1854,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220907T203000
 UID:recuDJlQsd_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220907T203000
-DURATION:PT105M
+DURATION:PT120M
 SUMMARY:团播游戏回【分手厨房&马里奥赛车8】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
