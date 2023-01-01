@@ -50,7 +50,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230101T200000
 UID:recOLutDU8_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230101T200000
-DURATION:PT120M
+DURATION:PT360M
 SUMMARY:米诺电台【生日二创鉴赏会】
 URL:bilibili://live/25512465
 DESCRIPTION:@米诺高分少女：为了防止明天看二创6泪，明天倒立＋戴墨镜直播 \n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
