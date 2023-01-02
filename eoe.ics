@@ -1016,8 +1016,8 @@ UID:recYMCDJPr_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221105T190000
 DURATION:PT90M
 SUMMARY:莞儿直播【心动的WANER】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1gP4y1U7YK
+DESCRIPTION:https://www.bilibili.com/video/BV1gP4y1U7YK\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1031,8 +1031,8 @@ UID:reccL7vsoB_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221104T203000
 DURATION:PT120M
 SUMMARY:虞莫直播【我独自放松中。。】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Ee4y1x7kk
+DESCRIPTION:https://www.bilibili.com/video/BV1Ee4y1x7kk\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1046,8 +1046,8 @@ UID:recsw1EPcZ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221104T190000
 DURATION:PT90M
 SUMMARY:露早直播【生日演唱会的幕后故事】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Ne411F7Nx
+DESCRIPTION:https://www.bilibili.com/video/BV1Ne411F7Nx\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1061,8 +1061,8 @@ UID:recTsWKqA7_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221103T200000
 DURATION:PT150M
 SUMMARY:米诺直播【看看我的，看看你的】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1bG4y1b7cJ
+DESCRIPTION:https://www.bilibili.com/video/BV1bG4y1b7cJ\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1076,8 +1076,8 @@ UID:recHpu2oXs_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221102T200000
 DURATION:PT180M
 SUMMARY:虞莫电台【你的命运由我掌控✔】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ce4y117Yu
+DESCRIPTION:https://www.bilibili.com/video/BV1ce4y117Yu\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1091,8 +1091,8 @@ UID:recPMAZTXM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221101T200000
 DURATION:PT240M
 SUMMARY:柚恩电台【甜！咸！搭！配！】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1FK411S7DW
+DESCRIPTION:https://www.bilibili.com/video/BV1FK411S7DW\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1106,8 +1106,8 @@ UID:recoeuaTq1_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221030T193000
 DURATION:PT210M
 SUMMARY:露早电台【一起看二创！】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ae411G7PQ
+DESCRIPTION:https://www.bilibili.com/video/BV1ae411G7PQ\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1121,8 +1121,8 @@ UID:rec1HRhUD6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221029T193000
 DURATION:PT240M
 SUMMARY:露早生日会【生日演唱会】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Kg41167Rr
+DESCRIPTION:https://www.bilibili.com/video/BV1Kg41167Rr\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
