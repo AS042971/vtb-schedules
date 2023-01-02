@@ -187,8 +187,8 @@ UID:recOLutDU8_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230101T200000
 DURATION:PT360M
 SUMMARY:米诺电台【生日二创鉴赏会】
-URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：为了防止明天看二创6泪，明天倒立＋戴墨镜直播 \n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Sg411x72X
+DESCRIPTION:@米诺高分少女：为了防止明天看二创6泪，明天倒立＋戴墨镜直播 \n\nhttps://www.bilibili.com/video/BV1Sg411x72X\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -202,8 +202,8 @@ UID:rec2wXepV4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230101T183000
 DURATION:PT90M
 SUMMARY:虞莫直播【2023年第一场单播】
-URL:bilibili://live/25512485
-DESCRIPTION:@虞莫MOMO：[虞莫MOMO_茄子][虞莫MOMO_茄子][虞莫MOMO_嗨起来][虞莫MOMO_嗨起来][虞莫MOMO_茄步][虞莫MOMO_茄步] \n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1y14y137TQ
+DESCRIPTION:@虞莫MOMO：[虞莫MOMO_茄子][虞莫MOMO_茄子][虞莫MOMO_嗨起来][虞莫MOMO_嗨起来][虞莫MOMO_茄步][虞莫MOMO_茄步] \n\nhttps://www.bilibili.com/video/BV1y14y137TQ\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -217,8 +217,8 @@ UID:rec0dXZ9AK_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221231T210000
 DURATION:PT240M
 SUMMARY:跨年团播【一起跨年！】
-URL:bilibili://live/25512443
-DESCRIPTION:@露早GOGO：[露早GOGO_mua][米诺高分少女_开心][莞儿睡不醒_mua][虞莫MOMO_开心][柚恩不加糖_要抱抱]\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1S3411D7fE
+DESCRIPTION:@露早GOGO：[露早GOGO_mua][米诺高分少女_开心][莞儿睡不醒_mua][虞莫MOMO_开心][柚恩不加糖_要抱抱]\n\nhttps://www.bilibili.com/video/BV1S3411D7fE\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -232,10 +232,10 @@ UID:recNHIjZPI_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221230T193000
 DURATION:PT180M
 SUMMARY:米诺生日演唱会【米诺的道理】
-URL:bilibili://live/25512465
+URL:bilibili://video/BV1e44y1R7wL
 DESCRIPTION:@米诺高分少女：即便经历再多艰难险阻，我们，终将重新出发！
 12月30日19:30 【米诺生日演唱会】 在@米诺高分少女 直播间里，让我们，畅意开怀！
-小漏一下，这次的天选抽奖环节将为大家带来更多惊喜和福利哦！\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+小漏一下，这次的天选抽奖环节将为大家带来更多惊喜和福利哦！\n\nhttps://www.bilibili.com/video/BV1e44y1R7wL\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -249,8 +249,8 @@ UID:recY82wvt7_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221228T203000
 DURATION:PT120M
 SUMMARY:柚恩直播【柚柚的视频来电 】
-URL:bilibili://live/86724
-DESCRIPTION:@柚恩不加糖：不接的人有难了📞(*¯︶¯*💢)\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1dg41147Gq
+DESCRIPTION:@柚恩不加糖：不接的人有难了📞(*¯︶¯*💢)\n\nhttps://www.bilibili.com/video/BV1dg41147Gq\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -264,8 +264,8 @@ UID:recZ0lHqfz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221228T190000
 DURATION:PT90M
 SUMMARY:虞莫电台【MOMO治愈系版本开启】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1y44y1o7J4
+DESCRIPTION:https://www.bilibili.com/video/BV1y44y1o7J4\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -279,8 +279,8 @@ UID:recuSyX5eK_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221227T203000
 DURATION:PT120M
 SUMMARY:露早直播【露早和她的朋友】
-URL:bilibili://live/25512443
-DESCRIPTION:@露早GOGO：(՞•Ꙫ•՞)\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1m14y1w7Za
+DESCRIPTION:@露早GOGO：(՞•Ꙫ•՞)\n\nhttps://www.bilibili.com/video/BV1m14y1w7Za\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -294,8 +294,8 @@ UID:reclzvktHy_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221227T190000
 DURATION:PT90M
 SUMMARY:莞儿直播【莞儿的台词摄影会～ 】
-URL:bilibili://live/25512476
-DESCRIPTION:@莞儿睡不醒：拍照苦手莞儿，想向大家征集拍照的POSE~当然这是新型摄影会，当然还要配上一句台词耶~小莞熊快来投稿吧！！୧( ⁼̴̶̤̀ω⁼̴̶̤́ )૭ 【例子: POSE:鸭子坐 台词:我是你们的女王大人~】\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1oA411D73N
+DESCRIPTION:@莞儿睡不醒：拍照苦手莞儿，想向大家征集拍照的POSE~当然这是新型摄影会，当然还要配上一句台词耶~小莞熊快来投稿吧！！୧( ⁼̴̶̤̀ω⁼̴̶̤́ )૭ 【例子: POSE:鸭子坐 台词:我是你们的女王大人~】\n\nhttps://www.bilibili.com/video/BV1oA411D73N\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -309,8 +309,8 @@ UID:recACEJb9c_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221225T193000
 DURATION:PT240M
 SUMMARY:团播【柚恩终于有新衣了！】
-URL:bilibili://live/86724
-DESCRIPTION:@柚恩不加糖：缝纫机终于用到自己身上了[柚恩不加糖_开心]\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1j14y1w75W
+DESCRIPTION:@柚恩不加糖：缝纫机终于用到自己身上了[柚恩不加糖_开心]\n\nhttps://www.bilibili.com/video/BV1j14y1w75W\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -324,8 +324,8 @@ UID:recqdMHtYd_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221224T203000
 DURATION:PT90M
 SUMMARY:米诺直播【好久不见】
-URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：Ladies and 乡亲们[米诺高分少女_开心][米诺高分少女_开心]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV15d4y1a7wk
+DESCRIPTION:@米诺高分少女：Ladies and 乡亲们[米诺高分少女_开心][米诺高分少女_开心]\n\nhttps://www.bilibili.com/video/BV15d4y1a7wk\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -339,8 +339,8 @@ UID:recM7IxQUL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221224T190000
 DURATION:PT90M
 SUMMARY:露早直播【杂谈之神回归】
-URL:bilibili://live/25512443
-DESCRIPTION:@露早GOGO：不信的话点进来看看[露早GOGO_侃侃而谈]\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Nv4y1z7xy
+DESCRIPTION:@露早GOGO：不信的话点进来看看[露早GOGO_侃侃而谈]\n\nhttps://www.bilibili.com/video/BV1Nv4y1z7xy\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -354,8 +354,8 @@ UID:recLbx9ooF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221223T203000
 DURATION:PT90M
 SUMMARY:柚恩直播【来聊天柚】
-URL:bilibili://live/86724
-DESCRIPTION:@柚恩不加糖：好想你们呀(*¯︶¯*)\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1MG4y1n7Je
+DESCRIPTION:@柚恩不加糖：好想你们呀(*¯︶¯*)\n\nhttps://www.bilibili.com/video/BV1MG4y1n7Je\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -369,8 +369,8 @@ UID:recD47JmQG_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221223T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【虞你唠嗑】
-URL:bilibili://live/25512485
-DESCRIPTION:@虞莫MOMO：留“阳”归来的苏总，这一次我要拿回属于我的一切[虞莫MOMO_美人虞][虞莫MOMO_美人虞][虞莫MOMO_美人虞]\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1oA411X75J
+DESCRIPTION:@虞莫MOMO：留“阳”归来的苏总，这一次我要拿回属于我的一切[虞莫MOMO_美人虞][虞莫MOMO_美人虞][虞莫MOMO_美人虞]\n\nhttps://www.bilibili.com/video/BV1oA411X75J\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -851,8 +851,8 @@ UID:reckN47bGC_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221113T193000
 DURATION:PT150M
 SUMMARY:团播【女团秘史】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1cP4y1m77d
+DESCRIPTION:https://www.bilibili.com/video/BV1cP4y1m77d\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
