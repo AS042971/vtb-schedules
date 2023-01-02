@@ -1551,13 +1551,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221002T190000
+UID:recmhYS6no_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221002T190000
+DURATION:PT240M
+SUMMARY:冰火歌会【秋日双城之战】
+URL:bilibili://video/BV1o8411s7SW
+DESCRIPTION:https://www.bilibili.com/video/BV1o8411s7SW\n点击上方链接打开录播
+LOCATION:@哔哩哔哩直播 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220930T193000
 UID:recodx00Bm_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220930T193000
 DURATION:PT150M
 SUMMARY:团播【谁是终极带货王】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1R8411473f
+DESCRIPTION:https://www.bilibili.com/video/BV1R8411473f\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1571,8 +1586,8 @@ UID:recaviwqc0_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220929T203000
 DURATION:PT90M
 SUMMARY:露早直播【汪汪殿下归位】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1HG411J7oZ
+DESCRIPTION:https://www.bilibili.com/video/BV1HG411J7oZ\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1586,8 +1601,8 @@ UID:recXLYbINr_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220929T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【青春修炼手册】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1WV4y1N7WL
+DESCRIPTION:https://www.bilibili.com/video/BV1WV4y1N7WL\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1601,8 +1616,8 @@ UID:recPIqC6E3_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220928T203000
 DURATION:PT120M
 SUMMARY:莞儿直播【那些年很冒险的梦】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV19R4y1R7er
+DESCRIPTION:https://www.bilibili.com/video/BV19R4y1R7er\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1616,8 +1631,8 @@ UID:recEfiP0PV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220928T190000
 DURATION:PT120M
 SUMMARY:柚恩直播【江山行】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1dW4y1Y7NB
+DESCRIPTION:https://www.bilibili.com/video/BV1dW4y1Y7NB\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1631,8 +1646,8 @@ UID:recD3cR2Sq_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220927T200000
 DURATION:PT90M
 SUMMARY:米诺电台直播【画歌回，整点小活儿】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ne4y1b7h7
+DESCRIPTION:https://www.bilibili.com/video/BV1ne4y1b7h7\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1646,8 +1661,8 @@ UID:recd694LD9_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220925T200000
 DURATION:PT180M
 SUMMARY:米诺电台直播【运营不在，小播一会儿】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1rG4y1s7dp
+DESCRIPTION:https://www.bilibili.com/video/BV1rG4y1s7dp\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1661,8 +1676,8 @@ UID:reccAtIDfA_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220924T193000
 DURATION:PT180M
 SUMMARY:团播【校园生活二三事】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Se411K7js
+DESCRIPTION:https://www.bilibili.com/video/BV1Se411K7js\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1676,8 +1691,8 @@ UID:reckjffIzz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220923T203000
 DURATION:PT150M
 SUMMARY:莞儿电台直播【来聊聊天】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1J8411b7m8
+DESCRIPTION:https://www.bilibili.com/video/BV1J8411b7m8\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1691,8 +1706,8 @@ UID:reclaSVy1N_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220923T190000
 DURATION:PT150M
 SUMMARY:柚恩直播【镜中人】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1vd4y1g7et
+DESCRIPTION:https://www.bilibili.com/video/BV1vd4y1g7et\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1706,8 +1721,8 @@ UID:recxo3mXLY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220922T203000
 DURATION:PT90M
 SUMMARY:柚恩&虞莫【两个女人】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1g8411b7zN
+DESCRIPTION:https://www.bilibili.com/video/BV1g8411b7zN\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1721,8 +1736,8 @@ UID:recZIUHG7V_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220922T190000
 DURATION:PT90M
 SUMMARY:莞儿直播【莞儿的送礼心得🤟】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1QG411u7Kf
+DESCRIPTION:https://www.bilibili.com/video/BV1QG411u7Kf\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1736,8 +1751,8 @@ UID:reclBHcitz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220921T203000
 DURATION:PT210M
 SUMMARY:米诺电台直播【画画还债回】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1vP411J74o
+DESCRIPTION:https://www.bilibili.com/video/BV1vP411J74o\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1751,8 +1766,8 @@ UID:recd3Af1KX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220921T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【国庆百京旅游攻略】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1og41127R8
+DESCRIPTION:https://www.bilibili.com/video/BV1og41127R8\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1766,8 +1781,8 @@ UID:recSRPw88x_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220919T190000
 DURATION:PT90M
 SUMMARY:柚恩电台直播【聊聊】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1jW4y1q7Km
+DESCRIPTION:https://www.bilibili.com/video/BV1jW4y1q7Km\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1781,8 +1796,8 @@ UID:rec9de459K_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220917T190000
 DURATION:PT180M
 SUMMARY:团播【EOE录音棚欢乐多】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1wW4y1v7ia
+DESCRIPTION:https://www.bilibili.com/video/BV1wW4y1v7ia\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1796,8 +1811,8 @@ UID:recx1ucp9P_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220916T203000
 DURATION:PT150M
 SUMMARY:虞莫直播【虞莫社交秘籍宝典】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1At4y1j7rJ
+DESCRIPTION:https://www.bilibili.com/video/BV1At4y1j7rJ\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
