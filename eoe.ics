@@ -218,7 +218,7 @@ DTSTART;TZID=Asia/Shanghai:20221231T210000
 DURATION:PT240M
 SUMMARY:跨年团播【一起跨年！】
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO：[露早GOGO_mua][米诺高分少女_开心][莞儿睡不醒_mua][虞莫MOMO_开心][柚恩不加糖_要抱抱]\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -280,7 +280,7 @@ DTSTART;TZID=Asia/Shanghai:20221227T203000
 DURATION:PT120M
 SUMMARY:露早直播【露早和她的朋友】
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO：(՞•Ꙫ•՞)\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -325,7 +325,7 @@ DTSTART;TZID=Asia/Shanghai:20221224T203000
 DURATION:PT90M
 SUMMARY:米诺直播【好久不见】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：Ladies and 乡亲们[米诺高分少女_开心][米诺高分少女_开心]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
