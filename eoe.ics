@@ -1136,8 +1136,8 @@ UID:reco8WntLV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221027T203000
 DURATION:PT120M
 SUMMARY:莞儿直播【贪吃莞的零食大冒险！】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Zt4y1u7D7
+DESCRIPTION:https://www.bilibili.com/video/BV1Zt4y1u7D7\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1151,8 +1151,8 @@ UID:reckpm6DJf_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221027T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【重生之我是女团经纪人】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1j84y1B7pN
+DESCRIPTION:https://www.bilibili.com/video/BV1j84y1B7pN\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1166,8 +1166,8 @@ UID:recRVNvhdj_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221026T203000
 DURATION:PT90M
 SUMMARY:米诺直播【船新淑女偶像直播】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1T84y1B774
+DESCRIPTION:https://www.bilibili.com/video/BV1T84y1B774\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1181,8 +1181,8 @@ UID:recB1uLfbL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221026T190000
 DURATION:PT90M
 SUMMARY:柚恩直播【柚大侠】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1nG4y1h7UN
+DESCRIPTION:https://www.bilibili.com/video/BV1nG4y1h7UN\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1196,8 +1196,8 @@ UID:recnrfMnvC_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221025T200000
 DURATION:PT180M
 SUMMARY:露早电台【小聊一下呗】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1fD4y1t7Xz
+DESCRIPTION:https://www.bilibili.com/video/BV1fD4y1t7Xz\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1211,8 +1211,8 @@ UID:recgHN4xBz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221024T200000
 DURATION:PT15M
 SUMMARY:蛞蝓直播【测试一会儿，但是是蛞蝓】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1CG4y187dq
+DESCRIPTION:https://www.bilibili.com/video/BV1CG4y187dq\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
