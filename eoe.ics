@@ -128,10 +128,7 @@ DTSTART;TZID=Asia/Shanghai:20230105T203000
 DURATION:PT90M
 SUMMARY:米诺直播【海龟侦探】
 URL:bilibili://live/25512465
-DESCRIPTION:@米诺高分少女：老板，鱼丸粗面。
-木有粗面。
-那...来碗鱼丸河粉吧。
-木有鱼丸[热]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：老板，鱼丸粗面。\n 木有粗面。\n 那...来碗鱼丸河粉吧。\n 木有鱼丸[热]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
