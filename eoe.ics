@@ -126,9 +126,12 @@ DTSTAMP;TZID=Asia/Shanghai:20230105T203000
 UID:recSH2ZRCW_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230105T203000
 DURATION:PT90M
-SUMMARY:米诺直播
+SUMMARY:米诺直播【海龟侦探】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：老板，鱼丸粗面。
+木有粗面。
+那...来碗鱼丸河粉吧。
+木有鱼丸[热]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -141,9 +144,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230105T190000
 UID:recmf3s2ZM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230105T190000
 DURATION:PT90M
-SUMMARY:虞莫直播
+SUMMARY:虞莫直播【有趣的灵魂万里挑一】
 URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@虞莫MOMO：看我明天如何将一手好牌…. [虞莫MOMO_扔飞镖]\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
