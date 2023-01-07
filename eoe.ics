@@ -66,7 +66,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230107T203000
 UID:recgDnPgFR_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230107T203000
 DURATION:PT90M
-SUMMARY:虞莫直播
+SUMMARY:虞莫直播【苏总的年货清单】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
@@ -81,7 +81,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230107T190000
 UID:recAHe7ZjV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230107T190000
 DURATION:PT90M
-SUMMARY:柚恩直播
+SUMMARY:柚恩直播【小小柚成长记】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230105T203000
 UID:recSH2ZRCW_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230105T203000
-DURATION:PT90M
+DURATION:PT150M
 SUMMARY:米诺直播【海龟侦探】
 URL:bilibili://live/25512465
 DESCRIPTION:@米诺高分少女：老板，鱼丸粗面。\n 木有粗面。\n 那...来碗鱼丸河粉吧。\n 木有鱼丸[热]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
