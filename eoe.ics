@@ -52,8 +52,8 @@ UID:rec9hLiRnC_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230108T193000
 DURATION:PT120M
 SUMMARY:团播【EOE春晚主持人面试】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1E8411K7rv
+DESCRIPTION:@莞儿睡不醒：[莞儿睡不醒_开心][露早GOGO_开心][米诺高分少女_开心][虞莫MOMO_开心][柚恩不加糖_开心]\n\nhttps://www.bilibili.com/video/BV1E8411K7rv\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -67,8 +67,8 @@ UID:recgDnPgFR_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230107T203000
 DURATION:PT90M
 SUMMARY:虞莫直播【苏总的年货清单】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV11Y411171Z
+DESCRIPTION:@虞莫MOMO：[UP_1811071010_歪嘴]\n\nhttps://www.bilibili.com/video/BV11Y411171Z\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -83,7 +83,7 @@ DTSTART;TZID=Asia/Shanghai:20230107T190000
 DURATION:PT90M
 SUMMARY:柚恩直播【小小柚成长记】
 URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@柚恩不加糖：o(*¯︶¯*)o\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -113,7 +113,7 @@ DTSTART;TZID=Asia/Shanghai:20230106T190000
 DURATION:PT90M
 SUMMARY:露早直播【早子姐的二三事】
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO：✌︎( ᐛ )✌︎\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
