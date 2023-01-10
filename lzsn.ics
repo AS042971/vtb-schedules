@@ -1039,9 +1039,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230110T190000
 UID:recDdm5dGC_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230110T190000
 DURATION:PT120M
-SUMMARY:祥太2D【观影】
+SUMMARY:祥太2D【续追《我买了一个农场》】
 URL:bilibili://live/23965761
-DESCRIPTION:https://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-祥太：下班下课了的话来一起看看聊聊～\n\nhttps://live.bilibili.com/23965761\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-祥太 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1054,9 +1054,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230110T210000
 UID:rec5Ce9vtK_lzsn@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230110T210000
 DURATION:PT120M
-SUMMARY:楚枫2D【哟西】
+SUMMARY:楚枫2D【21点的诗和远方】
 URL:bilibili://live/23905403
-DESCRIPTION:https://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@量子少年-楚枫：好久没弄念诗回了，听枫者可以把想听的一些诗发在评论或者私信，我会和大家一起欣赏你们推荐的诗。明天不是游戏哟~\n\nhttps://live.bilibili.com/23905403\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@量子少年-楚枫 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
