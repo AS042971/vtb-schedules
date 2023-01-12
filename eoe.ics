@@ -98,7 +98,7 @@ DTSTART;TZID=Asia/Shanghai:20230113T193000
 DURATION:PT120M
 SUMMARY:团播【动漫歌回】
 URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@柚恩不加糖：[米诺高分少女_开大][莞儿睡不醒_开心][露早GOGO_开心][柚恩不加糖_嘿嘿][虞莫MOMO_嗨起来]\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -143,7 +143,7 @@ DTSTART;TZID=Asia/Shanghai:20230111T203000
 DURATION:PT90M
 SUMMARY:虞莫直播【当舞担回到家】
 URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@虞莫MOMO：[虞莫MOMO_舞担]\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -158,7 +158,7 @@ DTSTART;TZID=Asia/Shanghai:20230111T190000
 DURATION:PT90M
 SUMMARY:柚恩直播【虎年最后一场单播】
 URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@柚恩不加糖：(*¯︶¯*)\n\nhttps://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
