@@ -128,7 +128,7 @@ DTSTART;TZID=Asia/Shanghai:20230112T190000
 DURATION:PT90M
 SUMMARY:露早直播
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO：[露早GOGO_侃侃而谈][露早GOGO_侃侃而谈][露早GOGO_侃侃而谈]\n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
