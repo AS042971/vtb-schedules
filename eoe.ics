@@ -80,7 +80,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230114T200000
 UID:rec1pGcJqo_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230114T200000
-DURATION:PT120M
+DURATION:PT210M
 SUMMARY:米诺电台【没标题】
 URL:bilibili://live/25512465
 DESCRIPTION:@米诺高分少女：[米诺高分少女_疑问]\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
