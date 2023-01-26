@@ -111,9 +111,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230126T200000
 UID:recn0zFklk_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230126T200000
 DURATION:PT120M
-SUMMARY:莞儿电台
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+SUMMARY:莞儿电台【春节小莞电台大放送】
+URL:bilibili://video/BV1VR4y1h7WM
+DESCRIPTION:@莞儿睡不醒：走过路过不要错过⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾\n\nhttps://www.bilibili.com/video/BV1VR4y1h7WM\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
