@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20230203T203000
 DURATION:PT90M
 SUMMARY:露早电台【唱歌给你们听】
 URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@露早GOGO： (●'◡'●) \n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -81,9 +81,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230203T190000
 UID:recCHuOrqX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230203T190000
 DURATION:PT90M
-SUMMARY:米诺直播
+SUMMARY:米诺直播【 《你所不了解的米诺》 】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：我家的社牛基因代代相传\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
