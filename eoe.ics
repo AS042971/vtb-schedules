@@ -53,7 +53,7 @@ DTSTART;TZID=Asia/Shanghai:20230204T193000
 DURATION:PT120M
 SUMMARY:团播【在？看看你的脑子】
 URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@莞儿睡不醒：脑洞莞来啦！大家的脑子里都有什么稀奇古怪奇奇妙妙的东西呢？分享一下你脑子的组成部分并留在评论区 例：工作 50% 游戏 10% 赚钱 40%！和大家一起来一场脑力碰撞吧～\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
