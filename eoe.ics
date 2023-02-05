@@ -65,7 +65,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230203T203000
 UID:recXgJGqpg_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230203T203000
-DURATION:PT90M
+DURATION:PT210M
 SUMMARY:露早电台【唱歌给你们听】
 URL:bilibili://live/25512443
 DESCRIPTION:@露早GOGO： (●'◡'●) \n\nhttps://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
