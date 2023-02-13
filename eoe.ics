@@ -212,6 +212,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230213T200000
+UID:recEVIOvw9_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230213T200000
+DURATION:PT120M
+SUMMARY:莞儿电台【《飞跃13号房》大结局来啦！】
+URL:bilibili://live/25512476
+DESCRIPTION:@莞儿睡不醒：突击！晚上来看我们究竟会解锁什么结局吧！！ヾ(Ő∀Ő)ﾉ听说好多人都已经（云）通关了，不许剧透喔！！\n\nhttps://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230212T200000
 UID:recXb1ZfrB_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230212T200000
