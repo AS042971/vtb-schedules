@@ -143,7 +143,7 @@ DTSTART;TZID=Asia/Shanghai:20230222T200000
 DURATION:PT90M
 SUMMARY:米诺直播【人在囧途】
 URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@米诺高分少女：命里面跟米有点过不去的那种…今天来聊一下为什么精神状态好像不太稳定的问题\n\nhttps://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
