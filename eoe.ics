@@ -65,7 +65,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230225T203000
 UID:recm8XhKDM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230225T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【米诺的大手】
 URL:bilibili://video/BV1Dg4y1H7y6
 DESCRIPTION:https://www.bilibili.com/video/BV1Dg4y1H7y6\n点击上方链接打开录播
