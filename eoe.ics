@@ -157,8 +157,8 @@ UID:recBZhuWqS_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230228T200000
 DURATION:PT120M
 SUMMARY:米诺&柚恩直播【与你共舞】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1e24y1n7Wu
+DESCRIPTION:https://www.bilibili.com/video/BV1e24y1n7Wu\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
