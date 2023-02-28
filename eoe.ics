@@ -172,8 +172,8 @@ UID:rec8cY8YzO_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230226T193000
 DURATION:PT120M
 SUMMARY:团播【穿越时空和你在一起】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV19s4y1Z7aj
+DESCRIPTION:https://www.bilibili.com/video/BV19s4y1Z7aj\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
