@@ -155,7 +155,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230228T200000
 UID:recBZhuWqS_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230228T200000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:米诺&柚恩直播【与你共舞】
 URL:bilibili://video/BV1e24y1n7Wu
 DESCRIPTION:https://www.bilibili.com/video/BV1e24y1n7Wu\n点击上方链接打开录播
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230224T193000
 UID:recHB5iCLp_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230224T193000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:露早才艺回【 汪汪殿下SHOW TIME 】
 URL:bilibili://video/BV1Gg4y1H76K
 DESCRIPTION:https://www.bilibili.com/video/BV1Gg4y1H76K\n点击上方链接打开录播
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230222T200000
 UID:recTRkz1Gh_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230222T200000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【人在囧途】
 URL:bilibili://video/BV1T84y1J7pe
 DESCRIPTION:@米诺高分少女：命里面跟米有点过不去的那种…今天来聊一下为什么精神状态好像不太稳定的问题\n\nhttps://www.bilibili.com/video/BV1T84y1J7pe\n点击上方链接打开录播
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230221T200000
 UID:recLfuPhMb_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230221T200000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:虞莫电台【小聊一会儿】
 URL:bilibili://video/BV1rb41197MK
 DESCRIPTION:https://www.bilibili.com/video/BV1rb41197MK\n点击上方链接打开录播
