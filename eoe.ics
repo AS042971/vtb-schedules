@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230216T203000
 UID:receK6x22t_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230216T203000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:米诺电台【老板5块钱的千层饼】
 URL:bilibili://video/BV1t24y1s7vv
 DESCRIPTION:https://www.bilibili.com/video/BV1t24y1s7vv\n点击上方链接打开录播
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230215T193000
 UID:receG0ftIn_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230215T193000
-DURATION:PT120M
+DURATION:PT240M
 SUMMARY:莞儿&露早游戏回【 你不起，我不起,_________! 】
 URL:bilibili://video/BV18v4y1x7ya
 DESCRIPTION:https://www.bilibili.com/video/BV18v4y1x7ya\n点击上方链接打开录播
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230214T220000
 UID:rechAwpyUP_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230214T220000
-DURATION:PT60M
+DURATION:PT90M
 SUMMARY:米诺电台【和米米约会吧】
 URL:bilibili://video/BV1NM4y1D7iG
 DESCRIPTION:@米诺高分少女：晚上见呀！\n\nhttps://www.bilibili.com/video/BV1NM4y1D7iG\n点击上方链接打开录播
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230213T200000
 UID:recEVIOvw9_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230213T200000
-DURATION:PT120M
+DURATION:PT210M
 SUMMARY:莞儿电台【《飞跃13号房》大结局来啦！】
 URL:bilibili://video/BV1xM4y1S7Dq
 DESCRIPTION:@莞儿睡不醒：突击！晚上来看我们究竟会解锁什么结局吧！！ヾ(Ő∀Ő)ﾉ听说好多人都已经（云）通关了，不许剧透喔！！\n\nhttps://www.bilibili.com/video/BV1xM4y1S7Dq\n点击上方链接打开录播
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230212T200000
 UID:recXb1ZfrB_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230212T200000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:柚恩电台【来听歌吧，朋柚】
 URL:bilibili://video/BV1Ws4y1a7m1
 DESCRIPTION:https://www.bilibili.com/video/BV1Ws4y1a7m1\n点击上方链接打开录播
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230208T210000
 UID:recieLm9gG_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230208T210000
-DURATION:PT120M
+DURATION:PT240M
 SUMMARY:莞儿电台【一日不见如同一日不见】
 URL:bilibili://video/BV1DM4y1D7mb
 DESCRIPTION:https://www.bilibili.com/video/BV1DM4y1D7mb\n点击上方链接打开录播
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230207T210000
 UID:rec6Jj04rw_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230207T210000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:虞莫电台【苏总来个大的】
 URL:bilibili://video/BV1bM4y1D7Ay
 DESCRIPTION:https://www.bilibili.com/video/BV1bM4y1D7Ay\n点击上方链接打开录播
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230205T193000
 UID:recWHQge0z_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230205T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【 EOE幸运大棋盘 】
 URL:bilibili://video/BV1JM411v7w6
 DESCRIPTION:https://www.bilibili.com/video/BV1JM411v7w6\n点击上方链接打开录播
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230204T193000
 UID:recegjKGTH_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230204T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【在？看看你的脑子】
 URL:bilibili://video/BV1D8411g7gY
 DESCRIPTION:@莞儿睡不醒：脑洞莞来啦！大家的脑子里都有什么稀奇古怪奇奇妙妙的东西呢？分享一下你脑子的组成部分并留在评论区 例：工作 50% 游戏 10% 赚钱 40%！和大家一起来一场脑力碰撞吧～\n\nhttps://www.bilibili.com/video/BV1D8411g7gY\n点击上方链接打开录播
@@ -770,7 +770,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230130T200000
 UID:rec9ls9vjM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230130T200000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:露早电台【来聊天吧】
 URL:bilibili://video/BV1xG4y1S7bG
 DESCRIPTION:https://www.bilibili.com/video/BV1xG4y1S7bG\n点击上方链接打开录播
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230128T193000
 UID:recwCHPtAp_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230128T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:柚恩电台【近一点】
 URL:bilibili://video/BV1ZR4y1h7Qh
 DESCRIPTION:@柚恩不加糖：提前到七点半啦，大家注意哦(*¯︶¯*)\n\nhttps://www.bilibili.com/video/BV1ZR4y1h7Qh\n点击上方链接打开录播
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230124T200000
 UID:recvfxLExg_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230124T200000
-DURATION:PT240M
+DURATION:PT270M
 SUMMARY:2023EOE拜年纪【花开一流年】
 URL:bilibili://video/BV168411w7Q4
 DESCRIPTION:@哎呀米诺录播组： 1月24日20:00一起来看点有意思的\n\nhttps://www.bilibili.com/video/BV168411w7Q4\n点击上方链接打开录播
