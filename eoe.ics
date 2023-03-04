@@ -380,7 +380,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230215T193000
 UID:receG0ftIn_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230215T193000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:莞儿&露早游戏回【 你不起，我不起,_________! 】
 URL:bilibili://video/BV18v4y1x7ya
 DESCRIPTION:https://www.bilibili.com/video/BV18v4y1x7ya\n点击上方链接打开录播
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230206T200000
 UID:recjS3Z0iQ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230206T200000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:露早电台【熟黄瓜好吃】
 URL:bilibili://video/BV1WM411v7VM
 DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://www.bilibili.com/video/BV1WM411v7VM\n点击上方链接打开录播
@@ -695,7 +695,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230202T203000
 UID:recMNdRoaW_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230202T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:柚恩直播【深度对话】
 URL:bilibili://video/BV1XY411S7Pk
 DESCRIPTION:https://www.bilibili.com/video/BV1XY411S7Pk\n点击上方链接打开录播
@@ -725,7 +725,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230201T203000
 UID:rec9Mf9Vf3_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230201T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:莞儿直播【莞儿的假期生活】
 URL:bilibili://video/BV1L24y1B7eU
 DESCRIPTION:https://www.bilibili.com/video/BV1L24y1B7eU\n点击上方链接打开录播
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230125T214000
 UID:recmaR3orm_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230125T214000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:莞儿电台【突突突突击电台～】
 URL:bilibili://video/BV12Y411D7EY
 DESCRIPTION:@莞儿睡不醒：好好好，待会儿突击电台~​\n\nhttps://www.bilibili.com/video/BV12Y411D7EY\n点击上方链接打开录播
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230120T200000
 UID:recyi6z1XW_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230120T200000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:柚恩电台【假期小聊】
 URL:bilibili://video/BV1MP4y1z7mg
 DESCRIPTION:@柚恩不加糖：[柚恩不加糖_柚恩蜜][柚恩不加糖_可爱](*¯︶¯*)\n\nhttps://www.bilibili.com/video/BV1MP4y1z7mg\n点击上方链接打开录播
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230117T193000
 UID:recnmSl5XT_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230117T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【EOE春晚】
 URL:bilibili://video/BV1Pv4y1C7TE
 DESCRIPTION:@露早GOGO：[露早GOGO_mua][米诺高分少女_开心][莞儿睡不醒_mua][柚恩不加糖_开心][虞莫MOMO_开心]\n\nhttps://www.bilibili.com/video/BV1Pv4y1C7TE\n点击上方链接打开录播
@@ -920,7 +920,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230116T193000
 UID:recYlZYObt_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230116T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【动漫歌回】
 URL:bilibili://video/BV1RY411978S
 DESCRIPTION:@虞莫MOMO：[莞儿睡不醒_mua][露早GOGO_mua][米诺高分少女_开心][虞莫MOMO_茄步][柚恩不加糖_撇嘴]\n\nhttps://www.bilibili.com/video/BV1RY411978S\n点击上方链接打开录播
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230112T190000
 UID:recLJdEJQY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230112T190000
-DURATION:PT90M
+DURATION:PT180M
 SUMMARY:露早电台【来聊天吧】
 URL:bilibili://video/BV1BR4y127XD
 DESCRIPTION:@露早GOGO：[露早GOGO_侃侃而谈][露早GOGO_侃侃而谈][露早GOGO_侃侃而谈]\n\nhttps://www.bilibili.com/video/BV1BR4y127XD\n点击上方链接打开录播
@@ -1220,7 +1220,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230103T200000
 UID:recT5Pi42f_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230103T200000
-DURATION:PT120M
+DURATION:PT210M
 SUMMARY:露早电台【小早来啦】
 URL:bilibili://video/BV1FK41127Ts
 DESCRIPTION:https://www.bilibili.com/video/BV1FK41127Ts\n点击上方链接打开录播
