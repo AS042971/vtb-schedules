@@ -2964,7 +2964,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220911T190000
 UID:recBwWlwpx_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220911T190000
-DURATION:PT270M
+DURATION:PT180M
 SUMMARY:米诺电台直播【这次我们聊10块的！】
 URL:bilibili://video/BV1ET411M7Yf
 DESCRIPTION:https://www.bilibili.com/video/BV1ET411M7Yf\n点击上方链接打开录播
@@ -3054,7 +3054,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220907T203000
 UID:recuDJlQsd_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220907T203000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:团播游戏回【分手厨房&马里奥赛车8】
 URL:bilibili://video/BV1tU4y1z7F4
 DESCRIPTION:https://www.bilibili.com/video/BV1tU4y1z7F4\n点击上方链接打开录播
@@ -3279,7 +3279,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220820T190000
 UID:recupPMCbX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220820T190000
-DURATION:PT180M
+DURATION:PT150M
 SUMMARY:团播【女王的新衣】
 URL:bilibili://video/BV1ma4y1f7jU
 DESCRIPTION:https://www.bilibili.com/video/BV1ma4y1f7jU\n点击上方链接打开录播
@@ -3594,7 +3594,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220729T210000
 UID:reczfzvIVr_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220729T210000
-DURATION:PT90M
+DURATION:PT60M
 SUMMARY:米诺首播【凝视我，别再只看天花】
 URL:bilibili://video/BV1za411T7Ly
 DESCRIPTION:https://www.bilibili.com/video/BV1za411T7Ly\n点击上方链接打开录播
