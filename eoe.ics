@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221231T210000
 UID:rec0dXZ9AK_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221231T210000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:跨年团播【一起跨年！】
 URL:bilibili://video/BV1S3411D7fE
 DESCRIPTION:@露早GOGO：[露早GOGO_mua][米诺高分少女_开心][莞儿睡不醒_mua][虞莫MOMO_开心][柚恩不加糖_要抱抱]\n\nhttps://www.bilibili.com/video/BV1S3411D7fE\n点击上方链接打开录播
@@ -1280,7 +1280,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221230T193000
 UID:recNHIjZPI_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221230T193000
-DURATION:PT180M
+DURATION:PT240M
 SUMMARY:米诺生日演唱会【米诺的道理】
 URL:bilibili://video/BV1e44y1R7wL
 DESCRIPTION:@米诺高分少女：即便经历再多艰难险阻，我们，终将重新出发！
@@ -1357,7 +1357,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221225T193000
 UID:recACEJb9c_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221225T193000
-DURATION:PT240M
+DURATION:PT120M
 SUMMARY:团播【柚恩终于有新衣了！】
 URL:bilibili://video/BV1j14y1w75W
 DESCRIPTION:@柚恩不加糖：缝纫机终于用到自己身上了[柚恩不加糖_开心]\n\nhttps://www.bilibili.com/video/BV1j14y1w75W\n点击上方链接打开录播
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221224T203000
 UID:recqdMHtYd_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221224T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【好久不见】
 URL:bilibili://video/BV15d4y1a7wk
 DESCRIPTION:@米诺高分少女：Ladies and 乡亲们[米诺高分少女_开心][米诺高分少女_开心]\n\nhttps://www.bilibili.com/video/BV15d4y1a7wk\n点击上方链接打开录播
@@ -1462,7 +1462,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221211T200000
 UID:recEps1Ywf_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221211T200000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:莞儿直播【今日有莞】
 URL:bilibili://video/BV13P4y1D7fr
 DESCRIPTION:@莞儿睡不醒：好心情有助恢复健康～！！今日有莞来陪大家聊天嗷＾3＾\n\nhttps://www.bilibili.com/video/BV13P4y1D7fr\n点击上方链接打开录播
@@ -1477,7 +1477,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221210T200000
 UID:recjnkWDbe_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221210T200000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:莞儿电台【和大家聊聊天儿～】
 URL:bilibili://video/BV1UW4y1g72S
 DESCRIPTION:@莞儿睡不醒：俺来咯！临时决定晚上突击一会儿！！\n\nhttps://www.bilibili.com/video/BV1UW4y1g72S\n点击上方链接打开录播
@@ -1568,7 +1568,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221203T210000
 UID:rechHCe4Dj_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221203T210000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:露早电台【补充GOGO能量】
 URL:bilibili://video/BV1QW4y1u7Cr
 DESCRIPTION:@露早GOGO：想拥有一些GOGO队的同款                             有什么好物推荐可以私信分享给我哦，我看看你们都喜欢什么，下次直播选一下可以考虑入手的
@@ -1659,7 +1659,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221127T200000
 UID:recijIYlPC_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221127T200000
-DURATION:PT240M
+DURATION:PT150M
 SUMMARY:EOE电台团播【和EOE一起上学吧】
 URL:bilibili://video/BV1Lv4y1d7Wu
 DESCRIPTION:@莞儿睡不醒： EOE高中开学啦！大家背起小书包一起上学吧～@[米诺高分少女_酷诺米][莞儿睡不醒_小莞熊][露早GOGO_GOGO队][柚恩不加糖_柚恩蜜][虞莫MOMO_美人虞] \n\nhttps://www.bilibili.com/video/BV1Lv4y1d7Wu\n点击上方链接打开录播
@@ -1674,7 +1674,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221126T200000
 UID:rece9XSzU5_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221126T200000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:虞莫电台【底特律变茄】
 URL:bilibili://video/BV1Qg411p7Ai
 DESCRIPTION:@虞莫MOMO： 年轻人的居家生活方式 \n\nhttps://www.bilibili.com/video/BV1Qg411p7Ai\n点击上方链接打开录播
@@ -1704,7 +1704,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221124T200000
 UID:rec05GawwT_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221124T200000
-DURATION:PT240M
+DURATION:PT270M
 SUMMARY:米诺电台【旋转，跳跃，我闭着眼】
 URL:bilibili://video/BV1rG4y1V7bn
 DESCRIPTION:@米诺高分少女：就是说...\n\nhttps://www.bilibili.com/video/BV1rG4y1V7bn\n点击上方链接打开录播
@@ -1719,7 +1719,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221123T200000
 UID:recb1Kmict_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221123T200000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:柚恩电台【弹弹琴，聊聊天】
 URL:bilibili://video/BV1wY411Z7gL
 DESCRIPTION:@柚恩不加糖：今天背景图大概动不了了\n\nhttps://www.bilibili.com/video/BV1wY411Z7gL\n点击上方链接打开录播
@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221122T200000
 UID:rec9B1PMT2_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221122T200000
-DURATION:PT240M
+DURATION:PT270M
 SUMMARY:莞儿电台【主 包 叛 逆 期 到 了】
 URL:bilibili://video/BV1U14y1J75T
 DESCRIPTION:@莞儿睡不醒：各位小莞熊下午好！有一则通知˃ʍ˂ 近期唐小姐摆了，于是明天电台由睡不醒代播。望小莞熊周知嗷！\n\nhttps://www.bilibili.com/video/BV1U14y1J75T\n点击上方链接打开录播
@@ -1749,7 +1749,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221121T200000
 UID:rec0Jbd3sI_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221121T200000
-DURATION:PT300M
+DURATION:PT330M
 SUMMARY:虞莫电台【和美人虞的约饭】
 URL:bilibili://video/BV1ue4y1W7Zm
 DESCRIPTION:@虞莫MOMO：炸鸡薯条摩卡卷，火鸡面巧克力哈斗，还有水果捞\n\nhttps://www.bilibili.com/video/BV1ue4y1W7Zm\n点击上方链接打开录播
@@ -1764,7 +1764,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221120T203000
 UID:recvfo8rh3_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221120T203000
-DURATION:PT90M
+DURATION:PT240M
 SUMMARY:虞莫电台【看看大家的二创】
 URL:bilibili://video/BV19P411g7yA
 DESCRIPTION:@虞莫MOMO：[虞莫MOMO_茄子][虞莫MOMO_茄子][虞莫MOMO_茄子]\n\nhttps://www.bilibili.com/video/BV19P411g7yA\n点击上方链接打开录播
@@ -2004,7 +2004,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221109T200000
 UID:rec9NC5kHG_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221109T200000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:米诺电台【对，但是...】
 URL:bilibili://video/BV1dG4y147mh
 DESCRIPTION:https://www.bilibili.com/video/BV1dG4y147mh\n点击上方链接打开录播
@@ -2139,7 +2139,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221101T200000
 UID:recPMAZTXM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221101T200000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:柚恩电台【甜！咸！搭！配！】
 URL:bilibili://video/BV1FK411S7DW
 DESCRIPTION:https://www.bilibili.com/video/BV1FK411S7DW\n点击上方链接打开录播
@@ -2154,7 +2154,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221030T193000
 UID:recoeuaTq1_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221030T193000
-DURATION:PT210M
+DURATION:PT180M
 SUMMARY:露早电台【一起看二创！】
 URL:bilibili://video/BV1ae411G7PQ
 DESCRIPTION:https://www.bilibili.com/video/BV1ae411G7PQ\n点击上方链接打开录播
@@ -2169,7 +2169,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221029T193000
 UID:rec1HRhUD6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221029T193000
-DURATION:PT240M
+DURATION:PT330M
 SUMMARY:露早生日会【生日演唱会】
 URL:bilibili://video/BV1Kg41167Rr
 DESCRIPTION:https://www.bilibili.com/video/BV1Kg41167Rr\n点击上方链接打开录播
@@ -2334,7 +2334,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221019T200000
 UID:recPQ80leU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221019T200000
-DURATION:PT240M
+DURATION:PT210M
 SUMMARY:莞儿电台【【莞熊电台】来和知心莞莞聊天】
 URL:bilibili://video/BV1od4y1173s
 DESCRIPTION:https://www.bilibili.com/video/BV1od4y1173s\n点击上方链接打开录播
@@ -2394,7 +2394,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20221014T200000
 UID:reck5GS3p6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221014T200000
-DURATION:PT150M
+DURATION:PT120M
 SUMMARY:团播【E!5!偶像运动会】
 URL:bilibili://video/BV1ce4y1J7sr
 DESCRIPTION:https://www.bilibili.com/video/BV1ce4y1J7sr\n点击上方链接打开录播
@@ -2679,7 +2679,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220928T190000
 UID:recEfiP0PV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220928T190000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:柚恩直播【江山行】
 URL:bilibili://video/BV1dW4y1Y7NB
 DESCRIPTION:https://www.bilibili.com/video/BV1dW4y1Y7NB\n点击上方链接打开录播
@@ -2754,7 +2754,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220923T190000
 UID:reclaSVy1N_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220923T190000
-DURATION:PT150M
+DURATION:PT90M
 SUMMARY:柚恩直播【镜中人】
 URL:bilibili://video/BV1vd4y1g7et
 DESCRIPTION:https://www.bilibili.com/video/BV1vd4y1g7et\n点击上方链接打开录播
@@ -2799,7 +2799,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20220921T203000
 UID:reclBHcitz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20220921T203000
-DURATION:PT210M
+DURATION:PT180M
 SUMMARY:米诺电台直播【画画还债回】
 URL:bilibili://video/BV1vP411J74o
 DESCRIPTION:https://www.bilibili.com/video/BV1vP411J74o\n点击上方链接打开录播
