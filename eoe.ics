@@ -97,9 +97,9 @@ UID:reccBBZjGb_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230310T190000
 DURATION:PT90M
 SUMMARY:露早直播
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@露早GOGO 直播间
+URL:bilibili://live/25512433
+DESCRIPTION:https://live.bilibili.com/25512433\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@EOE组合 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
@@ -156,7 +156,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230308T190000
 UID:recItcbQAm_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230308T190000
 DURATION:PT90M
-SUMMARY:露早虞莫双播
+SUMMARY:露早虞莫双播【你过来呀！】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
