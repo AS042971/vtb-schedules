@@ -81,9 +81,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230310T203000
 UID:rec85JZYK9_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230310T203000
 DURATION:PT90M
-SUMMARY:虞莫直播
+SUMMARY:虞莫直播【相爱穿梭千年】
 URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@虞莫MOMO：别推开我，我不想留下任何遗憾。\n\nhttps://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -96,9 +96,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230310T190000
 UID:reccBBZjGb_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230310T190000
 DURATION:PT90M
-SUMMARY:露早直播
+SUMMARY:露早直播【欢迎来到我的新家】
 URL:bilibili://live/25512433
-DESCRIPTION:https://live.bilibili.com/25512433\n点击上方链接打开哔哩哔哩，进入直播间
+DESCRIPTION:@EOE组合：反正不是我的直播间，随便播一播 ^ ^_\n\nhttps://live.bilibili.com/25512433\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@EOE组合 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
