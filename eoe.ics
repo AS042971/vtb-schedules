@@ -141,7 +141,9 @@ DTSTAMP;TZID=Asia/Shanghai:20230314T210000
 UID:recnHAUSLU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230314T210000
 DURATION:PT120M
-SUMMARY:莞儿电台
+SUMMARY:莞儿电台【莞间电台时间
+
+ 】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
