@@ -170,7 +170,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230325T223000
 UID:rec2egtfzg_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230325T223000
-DURATION:PT10M
+DURATION:PT240M
 SUMMARY:虞莫电台【听说你们想要突击电台】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
