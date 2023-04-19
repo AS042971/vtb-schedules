@@ -2624,7 +2624,7 @@ DTSTART;TZID=Asia/Shanghai:20221124T200000
 DURATION:PT270M
 SUMMARY:米诺电台【旋转，跳跃，我闭着眼】
 URL:bilibili://video/BV1rG4y1V7bn
-DESCRIPTION:@米诺高分少女：就是说...\n\nhttps://www.bilibili.com/video/BV1rG4y1V7bn\n点击上方链接打开录播
+DESCRIPTION:@：就是说...\n\nhttps://www.bilibili.com/video/BV1rG4y1V7bn\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
