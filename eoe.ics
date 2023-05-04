@@ -65,8 +65,8 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230503T200000
 UID:rec628nVtF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230503T200000
-DURATION:PT120M
-SUMMARY:虞莫L2D
+DURATION:PT180M
+SUMMARY:虞莫L2D【进来见证一个冉冉升起的新星！】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230502T200000
 UID:recf2BTvRy_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230502T200000
-DURATION:PT120M
+DURATION:PT270M
 SUMMARY:莞儿L2D【新人主播出道，请多关注】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230501T203000
 UID:recgXBN3QM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230501T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【现场好多人啊】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
