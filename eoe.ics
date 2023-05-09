@@ -126,7 +126,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230509T200000
 UID:recFhkCR5E_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230509T200000
 DURATION:PT120M
-SUMMARY:露早L2D
+SUMMARY:露早L2D【汪汪公主殿下登场！ 】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -1404,8 +1404,8 @@ UID:recYBUGAEF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230302T203000
 DURATION:PT90M
 SUMMARY:虞莫直播【中文等级考试】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1js4y1L7C2
+DESCRIPTION:https://www.bilibili.com/video/BV1js4y1L7C2\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1419,8 +1419,8 @@ UID:recwuqqDys_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230302T190000
 DURATION:PT90M
 SUMMARY:露早直播【 我是你的xx 】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1LX4y1D7QH
+DESCRIPTION:https://www.bilibili.com/video/BV1LX4y1D7QH\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1432,10 +1432,10 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230301T200000
 UID:recOt3Ey26_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230301T200000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:柚恩直播【去春游吧】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1iM411x7m7
+DESCRIPTION:https://www.bilibili.com/video/BV1iM411x7m7\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
