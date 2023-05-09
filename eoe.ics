@@ -545,7 +545,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230418T210000
 UID:recEf09Vgt_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230418T210000
-DURATION:PT120M
+DURATION:PT210M
 SUMMARY:柚恩电台【柚柚来咯】
 URL:bilibili://video/BV1Ac411H7Tm
 DESCRIPTION:https://www.bilibili.com/video/BV1Ac411H7Tm\n点击上方链接打开录播
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230416T193000
 UID:recsMIm49w_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230416T193000
-DURATION:PT100M
+DURATION:PT120M
 SUMMARY:团播【EOE大剧院之巅峰对决】
 URL:bilibili://video/BV1oh4y1W7Fz
 DESCRIPTION:https://www.bilibili.com/video/BV1oh4y1W7Fz\n点击上方链接打开录播
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230415T220000
 UID:recrK5EbHh_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230415T220000
-DURATION:PT120M
+DURATION:PT240M
 SUMMARY:莞儿电台【莞间电台时间之4月是你的谎言】
 URL:bilibili://video/BV19h41177Aw
 DESCRIPTION:https://www.bilibili.com/video/BV19h41177Aw\n点击上方链接打开录播
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230415T193000
 UID:recjQZkPuJ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230415T193000
-DURATION:PT90M
+DURATION:PT150M
 SUMMARY:米诺露早双播【渐。。。。。。。。？】
 URL:bilibili://video/BV1rg4y1T7hE
 DESCRIPTION:https://www.bilibili.com/video/BV1rg4y1T7hE\n点击上方链接打开录播
@@ -605,7 +605,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230414T193000
 UID:recZsVosxY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230414T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:柚恩才艺回【柚恩Show Time】
 URL:bilibili://video/BV1Lg4y1T75z
 DESCRIPTION:https://www.bilibili.com/video/BV1Lg4y1T75z\n点击上方链接打开录播
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230413T203000
 UID:recOQAA6WX_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230413T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:虞莫直播【带货主播的养成】
 URL:bilibili://video/BV15k4y1e7Tj
 DESCRIPTION:https://www.bilibili.com/video/BV15k4y1e7Tj\n点击上方链接打开录播
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230411T210000
 UID:recQE7Bt24_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230411T210000
-DURATION:PT180M
+DURATION:PT270M
 SUMMARY:虞莫电台【随便聊聊】
 URL:bilibili://video/BV19X4y167NJ
 DESCRIPTION:https://www.bilibili.com/video/BV19X4y167NJ\n点击上方链接打开录播
@@ -710,7 +710,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230408T220000
 UID:rechNIzSPe_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230408T220000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:米诺电台【吃米一拳！】
 URL:bilibili://video/BV1Fg4y137Bg
 DESCRIPTION:https://www.bilibili.com/video/BV1Fg4y137Bg\n点击上方链接打开录播
@@ -725,7 +725,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230408T190000
 UID:reckftL9CS_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230408T190000
-DURATION:PT90M
+DURATION:PT150M
 SUMMARY:露早直播【实现你们的愿望】
 URL:bilibili://video/BV18N411P7bL
 DESCRIPTION:https://www.bilibili.com/video/BV18N411P7bL\n点击上方链接打开录播
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230407T203000
 UID:recr51TjKk_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230407T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:虞莫直播【茄葩说】
 URL:bilibili://video/BV1oN411c7UT
 DESCRIPTION:https://www.bilibili.com/video/BV1oN411c7UT\n点击上方链接打开录播
@@ -800,7 +800,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230404T210000
 UID:recMnkzBxs_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230404T210000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:露早电台【真爱粉进】
 URL:bilibili://video/BV19V4y1S7Dy
 DESCRIPTION:https://www.bilibili.com/video/BV19V4y1S7Dy\n点击上方链接打开录播
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230401T190000
 UID:recYWtUDsO_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230401T190000
-DURATION:PT90M
+DURATION:PT240M
 SUMMARY:莞儿直播【一起来看二创吧！】
 URL:bilibili://video/BV1MM411u7XZ
 DESCRIPTION:https://www.bilibili.com/video/BV1MM411u7XZ\n点击上方链接打开录播
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230331T193000
 UID:recFs9r1NJ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230331T193000
-DURATION:PT180M
+DURATION:PT210M
 SUMMARY:莞儿生日会【BlueHeart莞心】
 URL:bilibili://video/BV11c411V7gJ
 DESCRIPTION:https://www.bilibili.com/video/BV11c411V7gJ\n点击上方链接打开录播
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230329T203000
 UID:rec0H6NFbr_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230329T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:露早直播【我的社交方式】
 URL:bilibili://video/BV1CM4y1U7AU
 DESCRIPTION:https://www.bilibili.com/video/BV1CM4y1U7AU\n点击上方链接打开录播
@@ -920,7 +920,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230327T210000
 UID:recvo9aksK_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230327T210000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:柚恩电台【大柚子电台】
 URL:bilibili://video/BV1ko4y1p7v4
 DESCRIPTION:https://www.bilibili.com/video/BV1ko4y1p7v4\n点击上方链接打开录播
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230324T213000
 UID:recaQVqCjo_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230324T213000
-DURATION:PT120M
+DURATION:PT270M
 SUMMARY:米诺电台【米米日常】
 URL:bilibili://video/BV1AT411z7Cm
 DESCRIPTION:https://www.bilibili.com/video/BV1AT411z7Cm\n点击上方链接打开录播
@@ -1070,7 +1070,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230320T210000
 UID:recNLUqMsz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230320T210000
-DURATION:PT120M
+DURATION:PT300M
 SUMMARY:虞莫电台【咳咳虞莫MOMO已上线】
 URL:bilibili://video/BV1Ko4y1B75w
 DESCRIPTION:https://www.bilibili.com/video/BV1Ko4y1B75w\n点击上方链接打开录播
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230319T193000
 UID:rec9f8jtyz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230319T193000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:团播【有意思招聘会】
 URL:bilibili://video/BV1Bx4y1P7E5
 DESCRIPTION:https://www.bilibili.com/video/BV1Bx4y1P7E5\n点击上方链接打开录播
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230317T223000
 UID:rec9zLNBY4_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230317T223000
-DURATION:PT120M
+DURATION:PT300M
 SUMMARY:露早电台【热带雨林一日游】
 URL:bilibili://video/BV13Y4y1X7Jo
 DESCRIPTION:https://www.bilibili.com/video/BV13Y4y1X7Jo\n点击上方链接打开录播
@@ -1130,7 +1130,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230317T203000
 UID:recehPIunM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230317T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【 查查你的入脑程度 】
 URL:bilibili://video/BV1Gc411j7JG
 DESCRIPTION:https://www.bilibili.com/video/BV1Gc411j7JG\n点击上方链接打开录播
@@ -1175,7 +1175,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230315T200000
 UID:rec7VEetYb_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230315T200000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺虞莫双播【和 善 的 双 播】
 URL:bilibili://video/BV1Zb411o7o2
 DESCRIPTION:https://www.bilibili.com/video/BV1Zb411o7o2\n点击上方链接打开录播
@@ -1190,7 +1190,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230314T210000
 UID:recnHAUSLU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230314T210000
-DURATION:PT120M
+DURATION:PT180M
 SUMMARY:莞儿电台【莞间电台时间
 
  】
@@ -1207,7 +1207,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230312T200000
 UID:recmKO11vD_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230312T200000
-DURATION:PT120M
+DURATION:PT210M
 SUMMARY:柚恩电台【柚来聊聊天】
 URL:bilibili://video/BV1Y24y1477p
 DESCRIPTION:https://www.bilibili.com/video/BV1Y24y1477p\n点击上方链接打开录播
@@ -1222,7 +1222,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230311T193000
 UID:recET6Hv2G_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230311T193000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:团播【末日求生 Dead Kuoyu】
 URL:bilibili://video/BV1bY4y197gw
 DESCRIPTION:https://www.bilibili.com/video/BV1bY4y197gw\n点击上方链接打开录播
@@ -1267,7 +1267,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230309T203000
 UID:recP7vICr3_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230309T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:米诺直播【交错的我们】
 URL:bilibili://video/BV1Fo4y167hT
 DESCRIPTION:https://www.bilibili.com/video/BV1Fo4y167hT\n点击上方链接打开录播
@@ -1327,7 +1327,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230307T200000
 UID:recPAtizXT_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230307T200000
-DURATION:PT120M
+DURATION:PT240M
 SUMMARY:米诺电台【 猛地推门而入！ 】
 URL:bilibili://video/BV1k84y1P7RY
 DESCRIPTION:https://www.bilibili.com/video/BV1k84y1P7RY\n点击上方链接打开录播
@@ -1402,7 +1402,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230302T203000
 UID:recYBUGAEF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230302T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:虞莫直播【中文等级考试】
 URL:bilibili://video/BV1LX4y1D7QH
 DESCRIPTION:https://www.bilibili.com/video/BV1LX4y1D7QH\n点击上方链接打开录播
