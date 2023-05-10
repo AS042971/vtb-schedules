@@ -32,6 +32,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230520T193000
+UID:recCbomkS1_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230520T193000
+DURATION:PT240M
+SUMMARY:柚恩生日演唱会【觅光】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230514T193000
 UID:reciRtClta_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230514T193000
@@ -846,7 +861,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230331T193000
 UID:recFs9r1NJ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230331T193000
 DURATION:PT210M
-SUMMARY:莞儿生日会【BlueHeart莞心】
+SUMMARY:莞儿生日演唱会【BlueHeart莞心】
 URL:bilibili://video/BV11c411V7gJ
 DESCRIPTION:https://www.bilibili.com/video/BV11c411V7gJ\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
@@ -3462,7 +3477,7 @@ DTSTAMP;TZID=Asia/Shanghai:20221029T193000
 UID:rec1HRhUD6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20221029T193000
 DURATION:PT330M
-SUMMARY:露早生日会【生日演唱会】
+SUMMARY:露早生日演唱会【飞向梦想，浩瀚无垠】
 URL:bilibili://video/BV1Kg41167Rr
 DESCRIPTION:https://www.bilibili.com/video/BV1Kg41167Rr\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
