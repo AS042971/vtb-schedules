@@ -456,7 +456,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230421T190000
 UID:recete2L5d_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230421T190000
 DURATION:PT90M
-SUMMARY:柚恩单播【柚恩三板斧之一】
+SUMMARY:柚恩直播【柚恩三板斧之一】
 URL:bilibili://video/BV1ML411Y7eK
 DESCRIPTION:https://www.bilibili.com/video/BV1ML411Y7eK\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
@@ -486,7 +486,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230420T203000
 UID:recJBNj7co_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230420T203000
 DURATION:PT120M
-SUMMARY:露早单播【来看看我的房间】
+SUMMARY:露早直播【来看看我的房间】
 URL:bilibili://video/BV1cm4y127a6
 DESCRIPTION:https://www.bilibili.com/video/BV1cm4y127a6\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
@@ -501,7 +501,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230420T190000
 UID:recQlVtbgB_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230420T190000
 DURATION:PT90M
-SUMMARY:莞儿单播【星空祈愿】
+SUMMARY:莞儿直播【星空祈愿】
 URL:bilibili://video/BV1Xo4y1j745
 DESCRIPTION:https://www.bilibili.com/video/BV1Xo4y1j745\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
@@ -516,7 +516,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230419T203000
 UID:rec1GKo9tQ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230419T203000
 DURATION:PT90M
-SUMMARY:米诺单播【米米大怪癖】
+SUMMARY:米诺直播【米米大怪癖】
 URL:bilibili://video/BV1GL411v7WK
 DESCRIPTION:https://www.bilibili.com/video/BV1GL411v7WK\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
@@ -531,7 +531,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230419T190000
 UID:recQkt3bMo_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230419T190000
 DURATION:PT90M
-SUMMARY:虞莫单播【带货主包试上岗】
+SUMMARY:虞莫直播【带货主包试上岗】
 URL:bilibili://video/BV1dV4y1d7Uo
 DESCRIPTION:https://www.bilibili.com/video/BV1dV4y1d7Uo\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
@@ -1162,8 +1162,8 @@ UID:rec3ESUTMV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230316T193000
 DURATION:PT90M
 SUMMARY:莞儿直播【幽灵剧院】
-URL:bilibili://video/BV1jc411E7ms
-DESCRIPTION:https://www.bilibili.com/video/BV1jc411E7ms\n点击上方链接打开录播
+URL:bilibili://video/BV1fT411r7zE
+DESCRIPTION:https://www.bilibili.com/video/BV1fT411r7zE\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
