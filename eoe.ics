@@ -1314,8 +1314,8 @@ UID:recItcbQAm_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230308T190000
 DURATION:PT90M
 SUMMARY:露早虞莫双播【你过来呀！】
-URL:bilibili://video/BV1hL41117C7
-DESCRIPTION:https://www.bilibili.com/video/BV1hL41117C7\n点击上方链接打开录播
+URL:bilibili://video/BV1CN411c7fn
+DESCRIPTION:https://www.bilibili.com/video/BV1CN411c7fn\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1342,7 +1342,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230305T140000
 UID:recLSqD8qM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230305T140000
-DURATION:PT120M
+DURATION:PT30M
 SUMMARY:露早电台【在看我吗？】
 URL:bilibili://video/BV1hL41117C7
 DESCRIPTION:https://www.bilibili.com/video/BV1hL41117C7\n点击上方链接打开录播
@@ -1357,7 +1357,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230304T193000
 UID:recoLF63Li_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230304T193000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:团播【新衣ShowTime】
 URL:bilibili://video/BV1KD4y1M74m
 DESCRIPTION:https://www.bilibili.com/video/BV1KD4y1M74m\n点击上方链接打开录播
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230303T203000
 UID:recOHQ1I60_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230303T203000
-DURATION:PT90M
+DURATION:PT120M
 SUMMARY:莞儿直播【欢迎光临莞的朋友圈】
 URL:bilibili://video/BV1i54y1u7gk
 DESCRIPTION:https://www.bilibili.com/video/BV1i54y1u7gk\n点击上方链接打开录播
