@@ -122,13 +122,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230510T234800
+UID:recF6FR32s_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230510T234800
+DURATION:PT120M
+SUMMARY:团播【火锅女团聚餐！】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230510T200000
 UID:recM9tg6LU_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230510T200000
 DURATION:PT120M
 SUMMARY:柚恩L2D【 今天出生啦 】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Wo4y147j6
+DESCRIPTION:https://www.bilibili.com/video/BV1Wo4y147j6\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -142,8 +157,8 @@ UID:recFhkCR5E_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230509T200000
 DURATION:PT120M
 SUMMARY:露早L2D【汪汪公主殿下登场！ 】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Sk4y1j7nh
+DESCRIPTION:https://www.bilibili.com/video/BV1Sk4y1j7nh\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
