@@ -125,10 +125,10 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230510T235000
 UID:recF6FR32s_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230510T235000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:团播【火锅女团聚餐！】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ez4y1a7M3
+DESCRIPTION:https://www.bilibili.com/video/BV1ez4y1a7M3\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
