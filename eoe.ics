@@ -127,8 +127,8 @@ UID:reczt8eicQ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230518T193000
 DURATION:PT120M
 SUMMARY:团播【七分熟少女】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV15c411N7nr
+DESCRIPTION:https://www.bilibili.com/video/BV15c411N7nr\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -142,8 +142,8 @@ UID:recixJQArt_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230517T193000
 DURATION:PT120M
 SUMMARY:露早&莞儿直播【《姐妹挖挖乐》】
-URL:bilibili://live/25512443
-DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Yg4y1F7ck
+DESCRIPTION:https://www.bilibili.com/video/BV1Yg4y1F7ck\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -157,8 +157,8 @@ UID:recxQgYQya_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230516T213000
 DURATION:PT120M
 SUMMARY:虞莫L2D【斗斗斗】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1hs4y1g78h
+DESCRIPTION:https://www.bilibili.com/video/BV1hs4y1g78h\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -172,8 +172,8 @@ UID:recba0sXoF_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230516T193000
 DURATION:PT120M
 SUMMARY:米诺L2D【吃点什么好呢】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV16T411t7TE
+DESCRIPTION:https://www.bilibili.com/video/BV16T411t7TE\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -185,10 +185,10 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230515T213000
 UID:rec15poG1y_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230515T213000
-DURATION:PT120M
+DURATION:PT150M
 SUMMARY:莞儿L2D【久违的游戏Time！】
-URL:bilibili://live/25512476
-DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1as4y1g72m
+DESCRIPTION:https://www.bilibili.com/video/BV1as4y1g72m\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
