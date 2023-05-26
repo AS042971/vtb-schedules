@@ -78,10 +78,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230526T225500
-UID:rec8F4VGat_eoe@bilibili.com
+UID:recB1B1g1e_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230526T225500
-DURATION:PT120M
-SUMMARY:2023年05月24日【虞莫L2D】【说来就来】
+DURATION:PT90M
+SUMMARY:虞莫L2D【说来就来】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
