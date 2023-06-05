@@ -200,10 +200,10 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230603T193000
 UID:recUC8j1tk_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230603T193000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:莞儿&虞莫直播【现充vs二次元】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1qP411D7tZ
+DESCRIPTION:https://www.bilibili.com/video/BV1qP411D7tZ\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230602T220000
 UID:recVqHy8D8_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230602T220000
-DURATION:PT120M
+DURATION:PT90M
 SUMMARY:米诺L2D【吃个煎饼】
 URL:bilibili://video/BV1Gz4y1q7b4
 DESCRIPTION:https://www.bilibili.com/video/BV1Gz4y1q7b4\n点击上方链接打开录播
