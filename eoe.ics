@@ -95,7 +95,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230623T130000
 UID:recoXCjw4A_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230623T130000
-DURATION:PT70M
+DURATION:PT60M
 SUMMARY:电台【小突一下！！！】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
