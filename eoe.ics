@@ -65,7 +65,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230626T200000
 UID:recw4Y4Ez3_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230626T200000
-DURATION:PT180M
+DURATION:PT480M
 SUMMARY:莞儿L2D【造梦彩券启动】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
