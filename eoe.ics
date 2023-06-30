@@ -107,6 +107,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230629T200000
+UID:recFMxE5Lm_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230629T200000
+DURATION:PT10M
+SUMMARY:AlChannel中国绊爱【中国绊爱四岁主题派对—以爱生花❀】
+URL:bilibili://live/1
+DESCRIPTION:https://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@哔哩哔哩直播 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230629T193000
 UID:recmFrikk1_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230629T193000
@@ -700,6 +715,21 @@ SUMMARY:团播【小时候敢做现在不敢做的事情】
 URL:bilibili://video/BV1KW4y1R7VP
 DESCRIPTION:https://www.bilibili.com/video/BV1KW4y1R7VP\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230601T162800
+UID:recJwu7bjK_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230601T162800
+DURATION:PT10M
+SUMMARY:沐沐白 【白佬会CLUB开业啦！进来捧】
+URL:bilibili://live/1
+DESCRIPTION:https://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@哔哩哔哩直播 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
