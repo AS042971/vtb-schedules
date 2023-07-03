@@ -232,8 +232,8 @@ UID:recUsU6Dhi_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230703T190000
 DURATION:PT90M
 SUMMARY:虞莫直播【我可不只是舞担】
-URL:bilibili://live/25512485
-DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1ez4y1n7P5
+DESCRIPTION:https://www.bilibili.com/video/BV1ez4y1n7P5\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -247,8 +247,8 @@ UID:recWnbO413_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230702T193000
 DURATION:PT120M
 SUMMARY:团播【EOE大剧院年度S+选拔赛】
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1Us4y1F7Cs
+DESCRIPTION:https://www.bilibili.com/video/BV1Us4y1F7Cs\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -262,8 +262,8 @@ UID:recbLvCQXM_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230701T200000
 DURATION:PT120M
 SUMMARY:米诺L2D【无骨鸡爪】
-URL:bilibili://live/25512465
-DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://video/BV1AF411R7WD
+DESCRIPTION:https://www.bilibili.com/video/BV1AF411R7WD\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
