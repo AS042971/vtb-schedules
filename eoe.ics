@@ -290,7 +290,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230629T200000
 UID:recFMxE5Lm_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230629T200000
-DURATION:PT10M
+DURATION:PT120M
 SUMMARY:AlChannel中国绊爱【中国绊爱四岁主题派对—以爱生花❀】
 URL:bilibili://live/1
 DESCRIPTION:https://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
