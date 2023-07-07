@@ -231,7 +231,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230704T223000
 UID:rechlJE1Me_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230704T223000
 DURATION:PT20M
-SUMMARY:莞儿电台【突击？】
+SUMMARY:莞儿突击电台【突击？】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
@@ -1041,7 +1041,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230527T222000
 UID:reckvXFbT6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230527T222000
 DURATION:PT150M
-SUMMARY:莞儿电台【想熊了！】
+SUMMARY:莞儿突击电台【想熊了！】
 URL:bilibili://video/BV15P411X7zS
 DESCRIPTION:https://www.bilibili.com/video/BV15P411X7zS\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
@@ -1821,7 +1821,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230420T230000
 UID:recRAUEjk8_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230420T230000
 DURATION:PT60M
-SUMMARY:莞儿电台【莞间突击电台】
+SUMMARY:莞儿突击电台【莞间突击电台】
 URL:bilibili://video/BV1Dk4y1a73s
 DESCRIPTION:https://www.bilibili.com/video/BV1Dk4y1a73s\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
