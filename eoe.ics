@@ -47,11 +47,11 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230729T200000
+DTSTAMP;TZID=Asia/Shanghai:20230729T173000
 UID:rechajbkdP_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230729T200000
+DTSTART;TZID=Asia/Shanghai:20230729T173000
 DURATION:PT90M
-SUMMARY:米诺直播
+SUMMARY:米诺直播【大的来了，唱歌能力+8】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
@@ -66,7 +66,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230728T200000
 UID:recjODlyua_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230728T200000
 DURATION:PT90M
-SUMMARY:虞莫直播
+SUMMARY:虞莫直播【痛！太痛了！】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
