@@ -17,6 +17,21 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230805T200000
+UID:rec1t50O6D_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230805T200000
+DURATION:PT120M
+SUMMARY:露早&虞莫直播
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230805T190000
 UID:rec1awWxTV_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230805T190000
@@ -25,6 +40,36 @@ SUMMARY:冰火歌会【冰火夏日夜】
 URL:bilibili://live/1
 DESCRIPTION:https://live.bilibili.com/1\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@哔哩哔哩直播 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230805T184000
+UID:recRXmx2sj_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230805T184000
+DURATION:PT240M
+SUMMARY:莞儿L2D
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230804T200000
+UID:reckWGZ6Yo_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230804T200000
+DURATION:PT120M
+SUMMARY:米诺新衣回【米诺 Show Time】
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
@@ -2421,7 +2466,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230414T193000
 UID:recZsVosxY_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230414T193000
 DURATION:PT150M
-SUMMARY:柚恩才艺回【柚恩Show Time】
+SUMMARY:柚恩才艺回【柚恩 Show Time】
 URL:bilibili://video/BV1Lg4y1T75z
 DESCRIPTION:https://www.bilibili.com/video/BV1Lg4y1T75z\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
@@ -2916,7 +2961,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230318T193000
 UID:recthICkKJ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230318T193000
 DURATION:PT120M
-SUMMARY:虞莫新衣回【虞莫Show Time】
+SUMMARY:虞莫新衣回【虞莫 Show Time】
 URL:bilibili://video/BV1js4y1p7QX
 DESCRIPTION:https://www.bilibili.com/video/BV1js4y1p7QX\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
