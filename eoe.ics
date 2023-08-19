@@ -95,7 +95,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230818T190000
 UID:recTu5tyUL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230818T190000
-DURATION:PT180M
+DURATION:PT150M
 SUMMARY:露早直播【细数姐的“最”】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230817T213000
 UID:recNSxtn9x_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230817T213000
-DURATION:PT180M
+DURATION:PT150M
 SUMMARY:虞莫L2D【莫莫的游戏时间】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230814T213000
 UID:rechSpB7xI_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230814T213000
-DURATION:PT180M
+DURATION:PT120M
 SUMMARY:莞儿L2D【退网一天】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20230814T193000
 UID:reccox89Jy_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230814T193000
-DURATION:PT120M
+DURATION:PT330M
 SUMMARY:米诺L2D【我直播预约呢？】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
