@@ -51,7 +51,7 @@ DTSTAMP;TZID=Asia/Shanghai:20230924T193000
 UID:rec8ALEVRZ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230924T193000
 DURATION:PT120M
-SUMMARY:西米露双播
+SUMMARY:西米露双播【从0到1】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -66,7 +66,22 @@ DTSTAMP;TZID=Asia/Shanghai:20230923T193000
 UID:recVI5fj0S_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230923T193000
 DURATION:PT120M
-SUMMARY:团播
+SUMMARY:团播【舞林大赛】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230922T210000
+UID:rec46neUm8_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230922T210000
+DURATION:PT180M
+SUMMARY:莞儿2D
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
@@ -7499,21 +7514,6 @@ SUMMARY:米诺直播【关于那个人的备忘录】
 URL:bilibili://video/BV1rB4y167QB
 DESCRIPTION:https://www.bilibili.com/video/BV1rB4y167QB\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20220811T190000
-UID:recDqGc8Lu_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20220811T190000
-DURATION:PT90M
-SUMMARY:虞莫直播【实力舞担的撒娇进修课】
-URL:bilibili://video/BV1fg411k78p
-DESCRIPTION:https://www.bilibili.com/video/BV1fg411k78p\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
