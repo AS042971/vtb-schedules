@@ -35,8 +35,8 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231105T140000
 UID:recrHGmnyu_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231105T140000
-DURATION:PT120M
-SUMMARY:莞儿2D
+DURATION:PT180M
+SUMMARY:莞儿2D【一起莞游戏】
 URL:bilibili://live/25512476
 DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@莞儿睡不醒 直播间
