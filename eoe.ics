@@ -17,6 +17,21 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231126T220000
+UID:recGkwMq0q_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231126T220000
+DURATION:PT120M
+SUMMARY:米诺突击电台【在吃榴莲蛋挞】
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231126T193000
 UID:rec2D79C9r_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231126T193000
@@ -7499,21 +7514,6 @@ SUMMARY:柚恩直播【大 设 计 师】
 URL:bilibili://video/BV1U44y1Q7W9
 DESCRIPTION:@柚恩不加糖：(╮️✂️*¯︶¯*)╮👔👗\n\nhttps://www.bilibili.com/video/BV1U44y1Q7W9\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221118T190000
-UID:rec5pfsTFf_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221118T190000
-DURATION:PT90M
-SUMMARY:莞儿直播【请听我说那些音乐与故事】
-URL:bilibili://video/BV1n14y1H7Ar
-DESCRIPTION:@莞儿睡不醒：今天轮到我和大家分享一下我喜欢的歌～(*´I`*)\n\nhttps://www.bilibili.com/video/BV1n14y1H7Ar\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
