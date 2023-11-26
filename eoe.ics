@@ -17,6 +17,51 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231126T193000
+UID:rec2D79C9r_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231126T193000
+DURATION:PT90M
+SUMMARY:柚恩直播【自研游戏实机试玩速来】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231125T203000
+UID:recGtZn7Bt_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231125T203000
+DURATION:PT90M
+SUMMARY:虞莫直播【还有这些规定？】
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231125T190000
+UID:recSRnlZkq_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231125T190000
+DURATION:PT90M
+SUMMARY:莞儿直播【重生之我是小家闺秀】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231124T193000
 UID:recBnTpEuQ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231124T193000
@@ -7469,51 +7514,6 @@ SUMMARY:莞儿直播【请听我说那些音乐与故事】
 URL:bilibili://video/BV1n14y1H7Ar
 DESCRIPTION:@莞儿睡不醒：今天轮到我和大家分享一下我喜欢的歌～(*´I`*)\n\nhttps://www.bilibili.com/video/BV1n14y1H7Ar\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221117T203000
-UID:recqbr8E0U_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221117T203000
-DURATION:PT90M
-SUMMARY:露早&虞莫直播【快穿之我是XXX】
-URL:bilibili://video/BV1Qd4y1b7k9
-DESCRIPTION:@虞莫MOMO：聊一些平时不敢聊的\n\nhttps://www.bilibili.com/video/BV1Qd4y1b7k9\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221117T190000
-UID:reckeuBOVA_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221117T190000
-DURATION:PT90M
-SUMMARY:米诺直播【慢 下 来】
-URL:bilibili://video/BV1MG411c7LW
-DESCRIPTION:@米诺高分少女：我已经不再是以前那个米诺了，这次回国，我要拿回原本属于我的一切\n\nhttps://www.bilibili.com/video/BV1MG411c7LW\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221116T193000
-UID:recJBNHZz6_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221116T193000
-DURATION:PT150M
-SUMMARY:露早电台【来和我聊天吧】
-URL:bilibili://video/BV1Wv4y1m7Cv
-DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://www.bilibili.com/video/BV1Wv4y1m7Cv\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
