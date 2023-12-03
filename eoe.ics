@@ -36,7 +36,7 @@ DTSTAMP;TZID=Asia/Shanghai:20231203T203000
 UID:recAvYEvGL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231203T203000
 DURATION:PT90M
-SUMMARY:露早直播
+SUMMARY:露早直播【吃就完了，家人们】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -51,22 +51,7 @@ DTSTAMP;TZID=Asia/Shanghai:20231203T190000
 UID:recpTNqg86_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231203T190000
 DURATION:PT90M
-SUMMARY:柚恩直播
-URL:bilibili://live/86724
-DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@柚恩不加糖 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20231203T190000
-UID:recWu9YKyU_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20231203T190000
-DURATION:PT90M
-SUMMARY:柚恩直播
+SUMMARY:柚恩直播【炒冷饭】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
@@ -7514,6 +7499,21 @@ SUMMARY:虞莫电台【底特律变茄】
 URL:bilibili://video/BV1Qg411p7Ai
 DESCRIPTION:@虞莫MOMO： 年轻人的居家生活方式 \n\nhttps://www.bilibili.com/video/BV1Qg411p7Ai\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20221125T200000
+UID:recfxWJdZ2_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20221125T200000
+DURATION:PT240M
+SUMMARY:露早电台【一起聊天，然后玩游戏】
+URL:bilibili://video/BV1CG4y1d7qV
+DESCRIPTION:@露早GOGO： [露早GOGO_侃侃而谈] \n\nhttps://www.bilibili.com/video/BV1CG4y1d7qV\n点击上方链接打开录播
+LOCATION:@露早GOGO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
