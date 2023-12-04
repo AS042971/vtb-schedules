@@ -167,6 +167,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231204T210000
+UID:recoRddUpW_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231204T210000
+DURATION:PT120M
+SUMMARY:柚恩突击
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231203T203000
 UID:recAvYEvGL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231203T203000
@@ -7498,21 +7513,6 @@ URL:bilibili://video/BV1nd4y1s7jB
 DESCRIPTION:@露早GOGO：想拥有一些GOGO队的同款[露早GOGO_GOGO队]有什么好物推荐可以私信分享给我哦，我看看你们都喜欢什么，下次直播选一下可以考虑入手的
 还有今晚21：00我的电台直播一定要来哦[露早GOGO_mua] \n\nhttps://www.bilibili.com/video/BV1nd4y1s7jB\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221204T193000
-UID:reclyElsVU_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221204T193000
-DURATION:PT120M
-SUMMARY:团播【新衣特别晚会】
-URL:bilibili://video/BV1QP411T7xQ
-DESCRIPTION:@虞莫MOMO：[莞儿睡不醒_小莞熊][露早GOGO_GOGO队][米诺高分少女_酷诺米][虞莫MOMO_美人虞][柚恩不加糖_柚恩蜜] 集合啦！！！📣📣📣\n\nhttps://www.bilibili.com/video/BV1QP411T7xQ\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
