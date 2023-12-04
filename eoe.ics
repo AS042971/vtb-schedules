@@ -32,6 +32,96 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231210T213000
+UID:recwEoEeaP_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231210T213000
+DURATION:PT120M
+SUMMARY:莞儿2D
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231210T193000
+UID:recctWOAi9_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231210T193000
+DURATION:PT120M
+SUMMARY:露早柚恩双播
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231209T193000
+UID:recBavc8cI_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231209T193000
+DURATION:PT120M
+SUMMARY:团播
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231208T203000
+UID:reclUSRrxI_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231208T203000
+DURATION:PT90M
+SUMMARY:露早直播
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231208T190000
+UID:rec7dwyYbH_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231208T190000
+DURATION:PT90M
+SUMMARY:柚恩直播
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231207T210000
+UID:rec3HKFefA_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231207T210000
+DURATION:PT120M
+SUMMARY:虞莫2D
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231206T200000
 UID:recMOnXnYJ_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231206T200000
@@ -7423,97 +7513,6 @@ SUMMARY:团播【新衣特别晚会】
 URL:bilibili://video/BV1QP411T7xQ
 DESCRIPTION:@虞莫MOMO：[莞儿睡不醒_小莞熊][露早GOGO_GOGO队][米诺高分少女_酷诺米][虞莫MOMO_美人虞][柚恩不加糖_柚恩蜜] 集合啦！！！📣📣📣\n\nhttps://www.bilibili.com/video/BV1QP411T7xQ\n点击上方链接打开录播
 LOCATION:@虞莫MOMO 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221203T210000
-UID:rechHCe4Dj_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221203T210000
-DURATION:PT150M
-SUMMARY:露早电台【补充GOGO能量】
-URL:bilibili://video/BV1QW4y1u7Cr
-DESCRIPTION:@露早GOGO：想拥有一些GOGO队的同款                             有什么好物推荐可以私信分享给我哦，我看看你们都喜欢什么，下次直播选一下可以考虑入手的
-还有今晚21：00我的电台直播一定要来哦\n\nhttps://www.bilibili.com/video/BV1QW4y1u7Cr\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221203T190000
-UID:reckij8C1V_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221203T190000
-DURATION:PT120M
-SUMMARY:莞儿电台【莞儿电脑维修店开业啦】
-URL:bilibili://video/BV1V84y1672T
-DESCRIPTION:@莞儿睡不醒：技多不压身，揭露莞师傅偶像生活的另一面！！（其实是玩装机模拟器₍˄·͈༝·͈˄*₎◞ ̑̑\n\nhttps://www.bilibili.com/video/BV1V84y1672T\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221202T203000
-UID:recjoeetTk_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221202T203000
-DURATION:PT90M
-SUMMARY:虞莫直播【苏虞传媒招聘啦！】
-URL:bilibili://video/BV1q14y1E7M6
-DESCRIPTION:@虞莫MOMO：苏总亲自面试时间[虞莫MOMO_茄子][虞莫MOMO_茄子][虞莫MOMO_茄子]\n\nhttps://www.bilibili.com/video/BV1q14y1E7M6\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221202T190000
-UID:rec8gRdwm6_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221202T190000
-DURATION:PT90M
-SUMMARY:米诺直播【您几位啊】
-URL:bilibili://video/BV1v14y1E7Z1
-DESCRIPTION:@米诺高分少女：一 起 来 推 理\n\nhttps://www.bilibili.com/video/BV1v14y1E7Z1\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221129T203000
-UID:recrMTufo4_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221129T203000
-DURATION:PT90M
-SUMMARY:莞儿直播【入侵莞儿的电脑】
-URL:bilibili://video/BV1fe411P7ki
-DESCRIPTION:@莞儿睡不醒：莞儿的电脑有什么呢？[米诺高分少女_疑问][米诺高分少女_疑问][莞儿睡不醒_开心]\n\nhttps://www.bilibili.com/video/BV1fe411P7ki\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20221129T190000
-UID:recWceLMPt_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20221129T190000
-DURATION:PT90M
-SUMMARY:柚恩直播【和柚恩共度的一天】
-URL:bilibili://video/BV13G4y1G7iv
-DESCRIPTION:@柚恩不加糖： 会动的柚柚(*¯︶¯*) \n\nhttps://www.bilibili.com/video/BV13G4y1G7iv\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
