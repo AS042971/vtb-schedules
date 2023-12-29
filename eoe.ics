@@ -47,6 +47,21 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231229T190000
+UID:rec811qcnB_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231229T190000
+DURATION:PT160M
+SUMMARY:柚恩突击电台【2023最后的视频通话】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231228T203000
 UID:recW1auP0c_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231228T203000
@@ -7495,21 +7510,6 @@ SUMMARY:柚恩直播【小小柚成长记】
 URL:bilibili://video/BV1QK411y7R7
 DESCRIPTION:@柚恩不加糖：o(*¯︶¯*)o\n\nhttps://www.bilibili.com/video/BV1QK411y7R7\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230106T203000
-UID:recRHaTBKL_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230106T203000
-DURATION:PT120M
-SUMMARY:莞儿直播【【赛博诊脉】专治各种疑难杂症】
-URL:bilibili://video/BV1YP411F7ux
-DESCRIPTION:@莞儿睡不醒：摩西摩西，莞师傅的赛博诊脉店开业啦！专治疑难杂症各种不服！大家平时有遇到什么让你不知如何是好的奇(qi)怪(pa)的人或者事吗？今天通通都告诉莞师傅，通通解决！通通治疗～⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ 例子 【莞儿麻麻！我的室友总是用我的牙刷？（呃呃）说了多少次都不听，我该怎么办呢）！！＼(`Δ’)／】 把你的小困惑私信或者在评论区告诉莞师傅吧!\n\nhttps://www.bilibili.com/video/BV1YP411F7ux\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:直播即将开始
