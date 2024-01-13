@@ -31,10 +31,20 @@ DTSTAMP;TZID=Asia/Shanghai:20240113T193000
 UID:recYwqj2ly_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240113T193000
 DURATION:PT120M
-SUMMARY:米诺虞莫直播
+SUMMARY:米诺虞莫直播【龙争虎斗】
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240113T100000
+UID:reczeocdxM_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240113T100000
+DURATION:PT120M
+SUMMARY:虞莫突击电台【健康生活!】
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240112T203000
@@ -5005,15 +5015,5 @@ SUMMARY:2023EOE拜年纪【花开一流年】
 URL:bilibili://video/BV168411w7Q4
 DESCRIPTION:@哎呀米诺录播组： 1月24日20:00一起来看点有意思的\n\nhttps://www.bilibili.com/video/BV168411w7Q4\n点击上方链接打开录播
 LOCATION:@哎呀米诺录播组 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230120T200000
-UID:recyi6z1XW_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230120T200000
-DURATION:PT180M
-SUMMARY:柚恩电台【假期小聊】
-URL:bilibili://video/BV1MP4y1z7mg
-DESCRIPTION:@柚恩不加糖：[柚恩不加糖_柚恩蜜][柚恩不加糖_可爱](*¯︶¯*)\n\nhttps://www.bilibili.com/video/BV1MP4y1z7mg\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
 END:VEVENT
 END:VCALENDAR
