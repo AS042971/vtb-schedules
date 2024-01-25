@@ -17,6 +17,66 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240128T193000
+UID:recY47PyOO_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240128T193000
+DURATION:PT120M
+SUMMARY:米诺露早双播
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240127T193000
+UID:recntyU5IN_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240127T193000
+DURATION:PT120M
+SUMMARY:柚恩才艺回
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240126T213000
+UID:reca5pY3R7_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240126T213000
+DURATION:PT120M
+SUMMARY:虞莫L2D
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240126T193000
+UID:recvAqTKu8_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240126T193000
+DURATION:PT90M
+SUMMARY:莞儿直播
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240125T193000
+UID:recCVYDm1V_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240125T193000
+DURATION:PT120M
+SUMMARY:团播
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240124T193000
+UID:reciGXJurV_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240124T193000
+DURATION:PT100M
+SUMMARY:露早直播【学歌回】
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240123T213000
 UID:recVrlRmeN_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240123T213000
@@ -4955,65 +5015,5 @@ SUMMARY:柚恩直播【主播偷懒，AI代播】
 URL:bilibili://video/BV1Z84y1G7ee
 DESCRIPTION:https://www.bilibili.com/video/BV1Z84y1G7ee\n点击上方链接打开录播
 LOCATION:@柚恩不加糖 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230207T210000
-UID:rec6Jj04rw_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230207T210000
-DURATION:PT180M
-SUMMARY:虞莫电台【苏总来个大的】
-URL:bilibili://video/BV1bM4y1D7Ay
-DESCRIPTION:https://www.bilibili.com/video/BV1bM4y1D7Ay\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230207T193000
-UID:recSU5xp2w_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230207T193000
-DURATION:PT90M
-SUMMARY:莞儿直播【欢迎来我家】
-URL:bilibili://video/BV1Pv4y147Cf
-DESCRIPTION:https://www.bilibili.com/video/BV1Pv4y147Cf\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230206T200000
-UID:recjS3Z0iQ_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230206T200000
-DURATION:PT90M
-SUMMARY:露早电台【熟黄瓜好吃】
-URL:bilibili://video/BV1WM411v7VM
-DESCRIPTION:@露早GOGO：o( ❛ᴗ❛ )o\n\nhttps://www.bilibili.com/video/BV1WM411v7VM\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230205T193000
-UID:recWHQge0z_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230205T193000
-DURATION:PT150M
-SUMMARY:团播【EOE幸运大棋盘】
-URL:bilibili://video/BV1JM411v7w6
-DESCRIPTION:https://www.bilibili.com/video/BV1JM411v7w6\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230204T193000
-UID:recegjKGTH_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230204T193000
-DURATION:PT150M
-SUMMARY:团播【在？看看你的脑子】
-URL:bilibili://video/BV1D8411g7gY
-DESCRIPTION:@莞儿睡不醒：脑洞莞来啦！大家的脑子里都有什么稀奇古怪奇奇妙妙的东西呢？分享一下你脑子的组成部分并留在评论区 例：工作 50% 游戏 10% 赚钱 40%！和大家一起来一场脑力碰撞吧～\n\nhttps://www.bilibili.com/video/BV1D8411g7gY\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230203T203000
-UID:recXgJGqpg_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230203T203000
-DURATION:PT210M
-SUMMARY:露早电台【唱歌给你们听】
-URL:bilibili://video/BV1tG4y1U7M3
-DESCRIPTION:@露早GOGO： (●'◡'●) \n\nhttps://www.bilibili.com/video/BV1tG4y1U7M3\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
 END:VEVENT
 END:VCALENDAR
