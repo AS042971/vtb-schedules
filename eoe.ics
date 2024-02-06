@@ -17,6 +17,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240206T193000
+UID:recCwMfRJ8_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240206T193000
+DURATION:PT120M
+SUMMARY:团播【2024春节联欢晚会】
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240204T213000
 UID:rec2msbRDq_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240204T213000
@@ -5005,15 +5015,5 @@ SUMMARY:露早直播【露早的练习室】
 URL:bilibili://video/BV1Po4y1i71U
 DESCRIPTION:https://www.bilibili.com/video/BV1Po4y1i71U\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230215T193000
-UID:receG0ftIn_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230215T193000
-DURATION:PT210M
-SUMMARY:莞儿&露早直播【你不起，我不起,_________!】
-URL:bilibili://video/BV18v4y1x7ya
-DESCRIPTION:https://www.bilibili.com/video/BV18v4y1x7ya\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
 END:VEVENT
 END:VCALENDAR
