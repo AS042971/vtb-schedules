@@ -17,6 +17,26 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240220T203000
+UID:recpasGuJs_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240220T203000
+DURATION:PT100M
+SUMMARY:虞莫直播【美女，在线减肥】
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240220T190000
+UID:recGp3gAj7_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240220T190000
+DURATION:PT100M
+SUMMARY:露早直播【返工了！】
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240218T193000
 UID:recmYeQiGN_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240218T193000
@@ -25,6 +45,56 @@ SUMMARY:团播【京中有擅技者】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240216T180000
+UID:recDnRqX4O_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240216T180000
+DURATION:PT125M
+SUMMARY:露早电台【哇咔咔咔咔】
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240215T160000
+UID:rec0HUPlzz_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240215T160000
+DURATION:PT150M
+SUMMARY:米诺电台【吃香香】
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240214T200000
+UID:recsiX1qm9_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240214T200000
+DURATION:PT150M
+SUMMARY:虞莫电台【情人节快乐】
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240213T200000
+UID:rec4znCIkd_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240213T200000
+DURATION:PT250M
+SUMMARY:柚恩电台【夜间来电】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240212T190000
+UID:rec4nb9BAW_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240212T190000
+DURATION:PT150M
+SUMMARY:莞儿电台【初三睡到饱】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240206T193000
@@ -4945,75 +5015,5 @@ SUMMARY:莞儿直播【如果你捡到了一只莞儿….】
 URL:bilibili://video/BV1db41197GZ
 DESCRIPTION:https://www.bilibili.com/video/BV1db41197GZ\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230222T200000
-UID:recTRkz1Gh_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230222T200000
-DURATION:PT120M
-SUMMARY:米诺直播【人在囧途】
-URL:bilibili://video/BV1T84y1J7pe
-DESCRIPTION:@米诺高分少女：命里面跟米有点过不去的那种…今天来聊一下为什么精神状态好像不太稳定的问题\n\nhttps://www.bilibili.com/video/BV1T84y1J7pe\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230221T200000
-UID:recLfuPhMb_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230221T200000
-DURATION:PT150M
-SUMMARY:虞莫电台【小聊一会儿】
-URL:bilibili://video/BV1rb41197MK
-DESCRIPTION:https://www.bilibili.com/video/BV1rb41197MK\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230219T193000
-UID:rec3xKYsv5_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230219T193000
-DURATION:PT120M
-SUMMARY:团播【蛞星救援】
-URL:bilibili://video/BV1CA41127mc
-DESCRIPTION:https://www.bilibili.com/video/BV1CA41127mc\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230218T203000
-UID:rec7KSlWky_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230218T203000
-DURATION:PT90M
-SUMMARY:柚恩直播【逃离暗黑童话】
-URL:bilibili://video/BV1qT411D7T6
-DESCRIPTION:https://www.bilibili.com/video/BV1qT411D7T6\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230218T190000
-UID:recuwj3AD7_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230218T190000
-DURATION:PT90M
-SUMMARY:莞儿直播【侦探小莞认真办案】
-URL:bilibili://video/BV1Xo4y1i75R
-DESCRIPTION:https://www.bilibili.com/video/BV1Xo4y1i75R\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230217T190000
-UID:recW6wCRks_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230217T190000
-DURATION:PT120M
-SUMMARY:虞莫斗地主联动【地主争霸】
-URL:bilibili://video/BV1X24y1p73q
-DESCRIPTION:https://www.bilibili.com/video/BV1X24y1p73q\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230216T203000
-UID:receK6x22t_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230216T203000
-DURATION:PT150M
-SUMMARY:米诺电台【老板5块钱的千层饼】
-URL:bilibili://video/BV1t24y1s7vv
-DESCRIPTION:https://www.bilibili.com/video/BV1t24y1s7vv\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
 END:VEVENT
 END:VCALENDAR
