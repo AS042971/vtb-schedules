@@ -57,11 +57,21 @@ DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩�
 LOCATION:@米诺高分少女 直播间
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240222T220000
+UID:recJAXImG8_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240222T220000
+DURATION:PT120M
+SUMMARY:虞莫突击L2D【深夜科目一】
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240222T200000
 UID:reclubERV6_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240222T200000
 DURATION:PT120M
-SUMMARY:露早L2D
+SUMMARY:露早L2D【哇咔咔咔咔咔】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -5005,15 +5015,5 @@ SUMMARY:露早直播【我是你的xx】
 URL:bilibili://video/BV1js4y1L7C2
 DESCRIPTION:https://www.bilibili.com/video/BV1js4y1L7C2\n点击上方链接打开录播
 LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230301T200000
-UID:recOt3Ey26_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230301T200000
-DURATION:PT120M
-SUMMARY:柚恩直播【去春游吧】
-URL:bilibili://video/BV1iM411x7m7
-DESCRIPTION:https://www.bilibili.com/video/BV1iM411x7m7\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
 END:VEVENT
 END:VCALENDAR
