@@ -81,7 +81,7 @@ DTSTAMP;TZID=Asia/Shanghai:20240228T203000
 UID:recGl20URz_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240228T203000
 DURATION:PT90M
-SUMMARY:露早直播
+SUMMARY:露早直播【精通人性的女讲师】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
@@ -95,6 +95,26 @@ SUMMARY:米诺直播
 URL:bilibili://live/25512465
 DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240228T120000
+UID:recSVqRmFm_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240228T120000
+DURATION:PT60M
+SUMMARY:莞儿突击电台【早上好！扣1助力主包起床】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240227T140000
+UID:recC6q9oL7_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240227T140000
+DURATION:PT180M
+SUMMARY:莞儿突击L2D【来看芙莉莲了！】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240226T210000
@@ -4995,25 +5015,5 @@ SUMMARY:团播【末日求生 Dead Kuoyu】
 URL:bilibili://video/BV1bY4y197gw
 DESCRIPTION:https://www.bilibili.com/video/BV1bY4y197gw\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230310T203000
-UID:rec85JZYK9_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230310T203000
-DURATION:PT90M
-SUMMARY:虞莫直播【相爱穿梭千年】
-URL:bilibili://video/BV1n54y1M7tp
-DESCRIPTION:@虞莫MOMO：别推开我，我不想留下任何遗憾。\n\nhttps://www.bilibili.com/video/BV1n54y1M7tp\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230310T190000
-UID:reccBBZjGb_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230310T190000
-DURATION:PT90M
-SUMMARY:露早直播【欢迎来到我的新家】
-URL:bilibili://video/BV1qv4y187p8
-DESCRIPTION:@EOE组合：反正不是我的直播间，随便播一播 ^ ^_\n\nhttps://www.bilibili.com/video/BV1qv4y187p8\n点击上方链接打开录播
-LOCATION:@EOE组合 直播间
 END:VEVENT
 END:VCALENDAR
