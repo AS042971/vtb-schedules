@@ -21,10 +21,20 @@ DTSTAMP;TZID=Asia/Shanghai:20240303T200000
 UID:recZk8XCNx_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240303T200000
 DURATION:PT120M
-SUMMARY:露早L2D
+SUMMARY:露早L2D【战斗，爽！】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240303T170000
+UID:recWQIzFv4_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240303T170000
+DURATION:PT170M
+SUMMARY:柚恩突击电台【钢琴电台！】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240302T213000
@@ -5005,15 +5015,5 @@ SUMMARY:莞儿电台【莞间电台时间】
 URL:bilibili://video/BV1aX4y1f7eL
 DESCRIPTION:https://www.bilibili.com/video/BV1aX4y1f7eL\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230312T200000
-UID:recmKO11vD_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230312T200000
-DURATION:PT210M
-SUMMARY:柚恩电台【柚来聊聊天】
-URL:bilibili://video/BV1Y24y1477p
-DESCRIPTION:https://www.bilibili.com/video/BV1Y24y1477p\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
 END:VEVENT
 END:VCALENDAR
