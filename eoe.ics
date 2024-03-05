@@ -17,6 +17,96 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240310T203000
+UID:rec5m8R644_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240310T203000
+DURATION:PT120M
+SUMMARY:虞莫L2D
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240310T190000
+UID:recwXOLrMD_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240310T190000
+DURATION:PT90M
+SUMMARY:柚恩直播
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240309T193000
+UID:recnxmuqyZ_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240309T193000
+DURATION:PT120M
+SUMMARY:团播
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240308T203000
+UID:recsYDsAwn_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240308T203000
+DURATION:PT90M
+SUMMARY:露早直播
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240308T190000
+UID:recGX9gVro_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240308T190000
+DURATION:PT90M
+SUMMARY:米诺直播
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240307T200000
+UID:recnbJq3Cz_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240307T200000
+DURATION:PT120M
+SUMMARY:露早L2D
+URL:bilibili://live/25512443
+DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@露早GOGO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240306T203000
+UID:rec8YBSMZm_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240306T203000
+DURATION:PT90M
+SUMMARY:米诺直播
+URL:bilibili://live/25512465
+DESCRIPTION:https://live.bilibili.com/25512465\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@米诺高分少女 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240306T190000
+UID:recTb1MTdJ_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240306T190000
+DURATION:PT90M
+SUMMARY:虞莫直播
+URL:bilibili://live/25512485
+DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@虞莫MOMO 直播间
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240304T200000
+UID:reczcGFD3w_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240304T200000
+DURATION:PT120M
+SUMMARY:柚恩L2D【柚是我】
+URL:bilibili://live/86724
+DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@柚恩不加糖 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240303T200000
 UID:recZk8XCNx_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240303T200000
@@ -4925,95 +5015,5 @@ SUMMARY:米诺直播【米米的舞室日志01】
 URL:bilibili://video/BV1Wb411o7xX
 DESCRIPTION:https://www.bilibili.com/video/BV1Wb411o7xX\n点击上方链接打开录播
 LOCATION:@米诺高分少女 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230320T210000
-UID:recNLUqMsz_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230320T210000
-DURATION:PT300M
-SUMMARY:虞莫电台【咳咳虞莫MOMO已上线】
-URL:bilibili://video/BV1Ko4y1B75w
-DESCRIPTION:https://www.bilibili.com/video/BV1Ko4y1B75w\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230319T193000
-UID:rec9f8jtyz_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230319T193000
-DURATION:PT150M
-SUMMARY:团播【有意思招聘会】
-URL:bilibili://video/BV1Bx4y1P7E5
-DESCRIPTION:https://www.bilibili.com/video/BV1Bx4y1P7E5\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230318T193000
-UID:recthICkKJ_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230318T193000
-DURATION:PT120M
-SUMMARY:虞莫新衣回【虞莫 Show Time】
-URL:bilibili://video/BV1js4y1p7QX
-DESCRIPTION:https://www.bilibili.com/video/BV1js4y1p7QX\n点击上方链接打开录播
-LOCATION:@虞莫MOMO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230317T223000
-UID:rec9zLNBY4_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230317T223000
-DURATION:PT300M
-SUMMARY:露早电台【热带雨林一日游】
-URL:bilibili://video/BV13Y4y1X7Jo
-DESCRIPTION:https://www.bilibili.com/video/BV13Y4y1X7Jo\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230317T203000
-UID:recehPIunM_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230317T203000
-DURATION:PT120M
-SUMMARY:米诺直播【查查你的入脑程度】
-URL:bilibili://video/BV1Gc411j7JG
-DESCRIPTION:https://www.bilibili.com/video/BV1Gc411j7JG\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230317T190000
-UID:recfiu19P0_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230317T190000
-DURATION:PT90M
-SUMMARY:柚恩直播【同桌的柚】
-URL:bilibili://video/BV1uM4y1671a
-DESCRIPTION:https://www.bilibili.com/video/BV1uM4y1671a\n点击上方链接打开录播
-LOCATION:@柚恩不加糖 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230316T193000
-UID:rec3ESUTMV_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230316T193000
-DURATION:PT90M
-SUMMARY:莞儿直播【幽灵剧院】
-URL:bilibili://video/BV1fT411r7zE
-DESCRIPTION:https://www.bilibili.com/video/BV1fT411r7zE\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230315T200000
-UID:rec7VEetYb_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230315T200000
-DURATION:PT120M
-SUMMARY:米诺&虞莫直播【和 善 的 双 播】
-URL:bilibili://video/BV1Zb411o7o2
-DESCRIPTION:https://www.bilibili.com/video/BV1Zb411o7o2\n点击上方链接打开录播
-LOCATION:@米诺高分少女 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230314T210000
-UID:recnHAUSLU_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230314T210000
-DURATION:PT180M
-SUMMARY:莞儿电台【莞间电台时间】
-URL:bilibili://video/BV1aX4y1f7eL
-DESCRIPTION:https://www.bilibili.com/video/BV1aX4y1f7eL\n点击上方链接打开录播
-LOCATION:@莞儿睡不醒 直播间
 END:VEVENT
 END:VCALENDAR
