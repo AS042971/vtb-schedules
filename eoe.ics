@@ -21,7 +21,7 @@ DTSTAMP;TZID=Asia/Shanghai:20240324T203000
 UID:recq6s45CD_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240324T203000
 DURATION:PT90M
-SUMMARY:虞莫直播
+SUMMARY:虞莫直播【聊聊那些尬事儿】
 URL:bilibili://live/25512485
 DESCRIPTION:https://live.bilibili.com/25512485\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@虞莫MOMO 直播间
@@ -31,7 +31,7 @@ DTSTAMP;TZID=Asia/Shanghai:20240324T190000
 UID:recOqE1yTn_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240324T190000
 DURATION:PT90M
-SUMMARY:柚恩直播
+SUMMARY:柚恩直播【烤柚恩蜜，倍儿香】
 URL:bilibili://live/86724
 DESCRIPTION:https://live.bilibili.com/86724\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@柚恩不加糖 直播间
@@ -41,7 +41,7 @@ DTSTAMP;TZID=Asia/Shanghai:20240323T193000
 UID:recpRDQJwg_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240323T193000
 DURATION:PT120M
-SUMMARY:团播
+SUMMARY:团播【直男挑战】
 URL:bilibili://live/25512443
 DESCRIPTION:https://live.bilibili.com/25512443\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@露早GOGO 直播间
