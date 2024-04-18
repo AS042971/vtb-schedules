@@ -17,6 +17,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20240420T193000
+UID:recsUnNNWB_eoe@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20240420T193000
+DURATION:PT180M
+SUMMARY:莞儿生日会【【生日会演唱会】异想记】
+URL:bilibili://live/25512476
+DESCRIPTION:https://live.bilibili.com/25512476\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@莞儿睡不醒 直播间
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20240414T193000
 UID:recVfWOvWL_eoe@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20240414T193000
@@ -5005,15 +5015,5 @@ SUMMARY:莞儿直播【唐莞儿のstyle】
 URL:bilibili://video/BV1xc411J7zi
 DESCRIPTION:https://www.bilibili.com/video/BV1xc411J7zi\n点击上方链接打开录播
 LOCATION:@莞儿睡不醒 直播间
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230423T210000
-UID:recslO6M44_eoe@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230423T210000
-DURATION:PT180M
-SUMMARY:露早电台【露早真爱粉集合】
-URL:bilibili://video/BV1yP411m7r8
-DESCRIPTION:https://www.bilibili.com/video/BV1yP411m7r8\n点击上方链接打开录播
-LOCATION:@露早GOGO 直播间
 END:VEVENT
 END:VCALENDAR
